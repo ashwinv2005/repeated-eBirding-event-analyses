@@ -2,9 +2,9 @@ library(tidyverse)
 library(ggthemes)
 theme_set(theme_tufte())
 
-source('~/GitHub/repeated-birding-event-analysis/functions.R')
-readcleanrawdata("PongalBirdCount-2019.csv")
-source('~/GitHub/repeated-birding-event-analysis/functions.R')
+source('~/GitHub/repeated-eBirding-event-analyses/functions.R')
+readcleanrawdata("2020 GBBC India_9 Mar 2020.csv")
+source('~/GitHub/repeated-eBirding-event-analyses/functions.R')
 addmapvars()
 data$DISTRICT = as.character(data$DISTRICT)
 data[data$COUNTY.CODE == "IN-TN-KK" & is.na(data$DISTRICT),]$DISTRICT = "Kanniyakumari"
