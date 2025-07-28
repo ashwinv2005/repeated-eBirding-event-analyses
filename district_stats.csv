@@ -1,0 +1,357 @@
+"state","district","metric","2021HBC","2022HBC"
+"ARUNACHAL PRADESH","Lower Dibang Valley","participants",NA,6
+"ARUNACHAL PRADESH","Lower Dibang Valley","checklists",NA,32
+"ARUNACHAL PRADESH","Lower Dibang Valley","unique_checklists",NA,19
+"ARUNACHAL PRADESH","Lower Dibang Valley","species",NA,167
+"ARUNACHAL PRADESH","Lower Subansiri","participants",NA,1
+"ARUNACHAL PRADESH","Lower Subansiri","checklists",NA,1
+"ARUNACHAL PRADESH","Lower Subansiri","unique_checklists",NA,1
+"ARUNACHAL PRADESH","Lower Subansiri","species",NA,19
+"ARUNACHAL PRADESH","Siang","participants",NA,1
+"ARUNACHAL PRADESH","Siang","checklists",NA,1
+"ARUNACHAL PRADESH","Siang","unique_checklists",NA,1
+"ARUNACHAL PRADESH","Siang","species",NA,5
+"ARUNACHAL PRADESH","Tawang","participants",1,NA
+"ARUNACHAL PRADESH","Tawang","checklists",1,NA
+"ARUNACHAL PRADESH","Tawang","unique_checklists",1,NA
+"ARUNACHAL PRADESH","Tawang","species",17,NA
+"ARUNACHAL PRADESH","West Kameng","participants",NA,13
+"ARUNACHAL PRADESH","West Kameng","checklists",NA,27
+"ARUNACHAL PRADESH","West Kameng","unique_checklists",NA,20
+"ARUNACHAL PRADESH","West Kameng","species",NA,172
+"ASSAM","Baksa","participants",2,1
+"ASSAM","Baksa","checklists",2,5
+"ASSAM","Baksa","unique_checklists",1,5
+"ASSAM","Baksa","species",67,43
+"ASSAM","Chirang","participants",1,NA
+"ASSAM","Chirang","checklists",6,NA
+"ASSAM","Chirang","unique_checklists",6,NA
+"ASSAM","Chirang","species",29,NA
+"ASSAM","Kokrajhar","participants",2,NA
+"ASSAM","Kokrajhar","checklists",3,NA
+"ASSAM","Kokrajhar","unique_checklists",2,NA
+"ASSAM","Kokrajhar","species",31,NA
+"ASSAM","Lakhimpur","participants",2,NA
+"ASSAM","Lakhimpur","checklists",8,NA
+"ASSAM","Lakhimpur","unique_checklists",4,NA
+"ASSAM","Lakhimpur","species",15,NA
+"ASSAM","Sonitpur","participants",1,1
+"ASSAM","Sonitpur","checklists",2,5
+"ASSAM","Sonitpur","unique_checklists",2,5
+"ASSAM","Sonitpur","species",35,25
+"BHUTAN","Chhukha","participants",6,NA
+"BHUTAN","Chhukha","checklists",22,NA
+"BHUTAN","Chhukha","unique_checklists",22,NA
+"BHUTAN","Chhukha","species",140,NA
+"BHUTAN","Dagana","participants",1,NA
+"BHUTAN","Dagana","checklists",1,NA
+"BHUTAN","Dagana","unique_checklists",1,NA
+"BHUTAN","Dagana","species",61,NA
+"BHUTAN","Gasa","participants",3,NA
+"BHUTAN","Gasa","checklists",3,NA
+"BHUTAN","Gasa","unique_checklists",3,NA
+"BHUTAN","Gasa","species",20,NA
+"BHUTAN","Lhuentse","participants",2,1
+"BHUTAN","Lhuentse","checklists",8,2
+"BHUTAN","Lhuentse","unique_checklists",8,2
+"BHUTAN","Lhuentse","species",53,21
+"BHUTAN","Monggar","participants",3,1
+"BHUTAN","Monggar","checklists",7,3
+"BHUTAN","Monggar","unique_checklists",4,3
+"BHUTAN","Monggar","species",77,13
+"BHUTAN","Paro","participants",4,3
+"BHUTAN","Paro","checklists",7,3
+"BHUTAN","Paro","unique_checklists",7,3
+"BHUTAN","Paro","species",30,11
+"BHUTAN","Pemagatshel","participants",2,NA
+"BHUTAN","Pemagatshel","checklists",2,NA
+"BHUTAN","Pemagatshel","unique_checklists",2,NA
+"BHUTAN","Pemagatshel","species",30,NA
+"BHUTAN","Punakha","participants",NA,5
+"BHUTAN","Punakha","checklists",NA,8
+"BHUTAN","Punakha","unique_checklists",NA,8
+"BHUTAN","Punakha","species",NA,90
+"BHUTAN","Samdrupjongkhar","participants",NA,2
+"BHUTAN","Samdrupjongkhar","checklists",NA,5
+"BHUTAN","Samdrupjongkhar","unique_checklists",NA,5
+"BHUTAN","Samdrupjongkhar","species",NA,53
+"BHUTAN","Samtse","participants",NA,1
+"BHUTAN","Samtse","checklists",NA,1
+"BHUTAN","Samtse","unique_checklists",NA,1
+"BHUTAN","Samtse","species",NA,NA
+"BHUTAN","Sarpang","participants",5,1
+"BHUTAN","Sarpang","checklists",8,4
+"BHUTAN","Sarpang","unique_checklists",8,4
+"BHUTAN","Sarpang","species",131,41
+"BHUTAN","Thimphu","participants",7,3
+"BHUTAN","Thimphu","checklists",15,3
+"BHUTAN","Thimphu","unique_checklists",15,3
+"BHUTAN","Thimphu","species",32,23
+"BHUTAN","Trashigang","participants",1,2
+"BHUTAN","Trashigang","checklists",6,11
+"BHUTAN","Trashigang","unique_checklists",6,11
+"BHUTAN","Trashigang","species",62,64
+"BHUTAN","Trongsa","participants",1,NA
+"BHUTAN","Trongsa","checklists",4,NA
+"BHUTAN","Trongsa","unique_checklists",4,NA
+"BHUTAN","Trongsa","species",13,NA
+"BHUTAN","Tsirang","participants",4,3
+"BHUTAN","Tsirang","checklists",7,14
+"BHUTAN","Tsirang","unique_checklists",6,9
+"BHUTAN","Tsirang","species",77,55
+"BHUTAN","Wangduephodrang","participants",1,1
+"BHUTAN","Wangduephodrang","checklists",1,1
+"BHUTAN","Wangduephodrang","unique_checklists",1,1
+"BHUTAN","Wangduephodrang","species",24,8
+"BHUTAN","Yangtse","participants",1,1
+"BHUTAN","Yangtse","checklists",1,7
+"BHUTAN","Yangtse","unique_checklists",1,7
+"BHUTAN","Yangtse","species",30,6
+"BHUTAN","Zhemgang","participants",1,4
+"BHUTAN","Zhemgang","checklists",1,5
+"BHUTAN","Zhemgang","unique_checklists",1,5
+"BHUTAN","Zhemgang","species",44,59
+"HARYANA","Panchkula","participants",1,6
+"HARYANA","Panchkula","checklists",1,13
+"HARYANA","Panchkula","unique_checklists",1,6
+"HARYANA","Panchkula","species",28,56
+"HIMACHAL PRADESH","Bilaspur","participants",1,3
+"HIMACHAL PRADESH","Bilaspur","checklists",1,3
+"HIMACHAL PRADESH","Bilaspur","unique_checklists",1,3
+"HIMACHAL PRADESH","Bilaspur","species",14,27
+"HIMACHAL PRADESH","Chamba","participants",NA,5
+"HIMACHAL PRADESH","Chamba","checklists",NA,6
+"HIMACHAL PRADESH","Chamba","unique_checklists",NA,6
+"HIMACHAL PRADESH","Chamba","species",NA,84
+"HIMACHAL PRADESH","Hamirpur","participants",NA,2
+"HIMACHAL PRADESH","Hamirpur","checklists",NA,2
+"HIMACHAL PRADESH","Hamirpur","unique_checklists",NA,1
+"HIMACHAL PRADESH","Hamirpur","species",NA,32
+"HIMACHAL PRADESH","Kangra","participants",1,6
+"HIMACHAL PRADESH","Kangra","checklists",5,6
+"HIMACHAL PRADESH","Kangra","unique_checklists",5,6
+"HIMACHAL PRADESH","Kangra","species",21,84
+"HIMACHAL PRADESH","Kinnaur","participants",1,1
+"HIMACHAL PRADESH","Kinnaur","checklists",1,1
+"HIMACHAL PRADESH","Kinnaur","unique_checklists",1,1
+"HIMACHAL PRADESH","Kinnaur","species",13,12
+"HIMACHAL PRADESH","Kullu","participants",1,16
+"HIMACHAL PRADESH","Kullu","checklists",1,22
+"HIMACHAL PRADESH","Kullu","unique_checklists",1,21
+"HIMACHAL PRADESH","Kullu","species",25,72
+"HIMACHAL PRADESH","Lahul & Spiti","participants",1,4
+"HIMACHAL PRADESH","Lahul & Spiti","checklists",1,7
+"HIMACHAL PRADESH","Lahul & Spiti","unique_checklists",1,7
+"HIMACHAL PRADESH","Lahul & Spiti","species",9,45
+"HIMACHAL PRADESH","Mandi","participants",2,43
+"HIMACHAL PRADESH","Mandi","checklists",5,63
+"HIMACHAL PRADESH","Mandi","unique_checklists",5,63
+"HIMACHAL PRADESH","Mandi","species",78,110
+"HIMACHAL PRADESH","Shimla","participants",1,14
+"HIMACHAL PRADESH","Shimla","checklists",3,18
+"HIMACHAL PRADESH","Shimla","unique_checklists",3,18
+"HIMACHAL PRADESH","Shimla","species",20,89
+"HIMACHAL PRADESH","Sirmaur","participants",NA,3
+"HIMACHAL PRADESH","Sirmaur","checklists",NA,6
+"HIMACHAL PRADESH","Sirmaur","unique_checklists",NA,6
+"HIMACHAL PRADESH","Sirmaur","species",NA,52
+"HIMACHAL PRADESH","Solan","participants",1,9
+"HIMACHAL PRADESH","Solan","checklists",1,30
+"HIMACHAL PRADESH","Solan","unique_checklists",1,30
+"HIMACHAL PRADESH","Solan","species",15,128
+"HIMACHAL PRADESH","Una","participants",NA,2
+"HIMACHAL PRADESH","Una","checklists",NA,2
+"HIMACHAL PRADESH","Una","unique_checklists",NA,2
+"HIMACHAL PRADESH","Una","species",NA,31
+"JAMMU & KASHMIR","Anantnag","participants",1,2
+"JAMMU & KASHMIR","Anantnag","checklists",2,4
+"JAMMU & KASHMIR","Anantnag","unique_checklists",2,4
+"JAMMU & KASHMIR","Anantnag","species",17,47
+"JAMMU & KASHMIR","Badgam","participants",4,6
+"JAMMU & KASHMIR","Badgam","checklists",6,12
+"JAMMU & KASHMIR","Badgam","unique_checklists",6,10
+"JAMMU & KASHMIR","Badgam","species",82,74
+"JAMMU & KASHMIR","Bandipore","participants",NA,1
+"JAMMU & KASHMIR","Bandipore","checklists",NA,1
+"JAMMU & KASHMIR","Bandipore","unique_checklists",NA,1
+"JAMMU & KASHMIR","Bandipore","species",NA,14
+"JAMMU & KASHMIR","Baramula","participants",1,2
+"JAMMU & KASHMIR","Baramula","checklists",1,3
+"JAMMU & KASHMIR","Baramula","unique_checklists",1,3
+"JAMMU & KASHMIR","Baramula","species",11,24
+"JAMMU & KASHMIR","Doda","participants",NA,5
+"JAMMU & KASHMIR","Doda","checklists",NA,58
+"JAMMU & KASHMIR","Doda","unique_checklists",NA,14
+"JAMMU & KASHMIR","Doda","species",NA,35
+"JAMMU & KASHMIR","Ganderbal","participants",2,6
+"JAMMU & KASHMIR","Ganderbal","checklists",6,8
+"JAMMU & KASHMIR","Ganderbal","unique_checklists",6,8
+"JAMMU & KASHMIR","Ganderbal","species",24,63
+"JAMMU & KASHMIR","Jammu","participants",1,5
+"JAMMU & KASHMIR","Jammu","checklists",4,19
+"JAMMU & KASHMIR","Jammu","unique_checklists",4,8
+"JAMMU & KASHMIR","Jammu","species",22,79
+"JAMMU & KASHMIR","Kathua","participants",NA,7
+"JAMMU & KASHMIR","Kathua","checklists",NA,26
+"JAMMU & KASHMIR","Kathua","unique_checklists",NA,7
+"JAMMU & KASHMIR","Kathua","species",NA,69
+"JAMMU & KASHMIR","Kupwara","participants",NA,1
+"JAMMU & KASHMIR","Kupwara","checklists",NA,2
+"JAMMU & KASHMIR","Kupwara","unique_checklists",NA,2
+"JAMMU & KASHMIR","Kupwara","species",NA,29
+"JAMMU & KASHMIR","Mirpur","participants",NA,2
+"JAMMU & KASHMIR","Mirpur","checklists",NA,2
+"JAMMU & KASHMIR","Mirpur","unique_checklists",NA,2
+"JAMMU & KASHMIR","Mirpur","species",NA,13
+"JAMMU & KASHMIR","Pulwama","participants",1,5
+"JAMMU & KASHMIR","Pulwama","checklists",1,18
+"JAMMU & KASHMIR","Pulwama","unique_checklists",1,10
+"JAMMU & KASHMIR","Pulwama","species",13,26
+"JAMMU & KASHMIR","Punch","participants",NA,1
+"JAMMU & KASHMIR","Punch","checklists",NA,3
+"JAMMU & KASHMIR","Punch","unique_checklists",NA,3
+"JAMMU & KASHMIR","Punch","species",NA,45
+"JAMMU & KASHMIR","Rajouri","participants",NA,3
+"JAMMU & KASHMIR","Rajouri","checklists",NA,3
+"JAMMU & KASHMIR","Rajouri","unique_checklists",NA,2
+"JAMMU & KASHMIR","Rajouri","species",NA,38
+"JAMMU & KASHMIR","Ramban","participants",NA,1
+"JAMMU & KASHMIR","Ramban","checklists",NA,2
+"JAMMU & KASHMIR","Ramban","unique_checklists",NA,2
+"JAMMU & KASHMIR","Ramban","species",NA,18
+"JAMMU & KASHMIR","Reasi","participants",NA,1
+"JAMMU & KASHMIR","Reasi","checklists",NA,1
+"JAMMU & KASHMIR","Reasi","unique_checklists",NA,1
+"JAMMU & KASHMIR","Reasi","species",NA,8
+"JAMMU & KASHMIR","Shupiyan","participants",1,NA
+"JAMMU & KASHMIR","Shupiyan","checklists",1,NA
+"JAMMU & KASHMIR","Shupiyan","unique_checklists",1,NA
+"JAMMU & KASHMIR","Shupiyan","species",6,NA
+"JAMMU & KASHMIR","Srinagar","participants",4,6
+"JAMMU & KASHMIR","Srinagar","checklists",9,12
+"JAMMU & KASHMIR","Srinagar","unique_checklists",9,9
+"JAMMU & KASHMIR","Srinagar","species",53,50
+"JAMMU & KASHMIR","Udhampur","participants",NA,2
+"JAMMU & KASHMIR","Udhampur","checklists",NA,2
+"JAMMU & KASHMIR","Udhampur","unique_checklists",NA,2
+"JAMMU & KASHMIR","Udhampur","species",NA,14
+"LADAKH","Kargil","participants",1,7
+"LADAKH","Kargil","checklists",3,11
+"LADAKH","Kargil","unique_checklists",3,11
+"LADAKH","Kargil","species",12,28
+"LADAKH","Leh","participants",4,39
+"LADAKH","Leh","checklists",8,187
+"LADAKH","Leh","unique_checklists",8,163
+"LADAKH","Leh","species",44,100
+"NEPAL","Bagmati","participants",4,28
+"NEPAL","Bagmati","checklists",15,66
+"NEPAL","Bagmati","unique_checklists",15,60
+"NEPAL","Bagmati","species",77,156
+"NEPAL","Gandaki","participants",NA,6
+"NEPAL","Gandaki","checklists",NA,22
+"NEPAL","Gandaki","unique_checklists",NA,14
+"NEPAL","Gandaki","species",NA,106
+"NEPAL","Lumbini","participants",1,5
+"NEPAL","Lumbini","checklists",2,17
+"NEPAL","Lumbini","unique_checklists",2,17
+"NEPAL","Lumbini","species",41,92
+"NEPAL","Province 1","participants",3,2
+"NEPAL","Province 1","checklists",6,3
+"NEPAL","Province 1","unique_checklists",4,3
+"NEPAL","Province 1","species",104,30
+"NEPAL","Province 2","participants",NA,3
+"NEPAL","Province 2","checklists",NA,4
+"NEPAL","Province 2","unique_checklists",NA,4
+"NEPAL","Province 2","species",NA,56
+"NEPAL","Sudurpaschim","participants",1,1
+"NEPAL","Sudurpaschim","checklists",1,1
+"NEPAL","Sudurpaschim","unique_checklists",1,1
+"NEPAL","Sudurpaschim","species",32,11
+"PUNJAB","Pathankot","participants",NA,1
+"PUNJAB","Pathankot","checklists",NA,1
+"PUNJAB","Pathankot","unique_checklists",NA,1
+"PUNJAB","Pathankot","species",NA,22
+"PUNJAB","Sahibzada Ajit Singh Nag*","participants",3,6
+"PUNJAB","Sahibzada Ajit Singh Nag*","checklists",3,13
+"PUNJAB","Sahibzada Ajit Singh Nag*","unique_checklists",3,12
+"PUNJAB","Sahibzada Ajit Singh Nag*","species",35,62
+"SIKKIM","East District","participants",3,12
+"SIKKIM","East District","checklists",3,29
+"SIKKIM","East District","unique_checklists",3,27
+"SIKKIM","East District","species",93,125
+"SIKKIM","North  District","participants",NA,3
+"SIKKIM","North  District","checklists",NA,9
+"SIKKIM","North  District","unique_checklists",NA,3
+"SIKKIM","North  District","species",NA,16
+"SIKKIM","South District","participants",2,4
+"SIKKIM","South District","checklists",2,4
+"SIKKIM","South District","unique_checklists",1,4
+"SIKKIM","South District","species",64,93
+"SIKKIM","West District","participants",1,2
+"SIKKIM","West District","checklists",1,11
+"SIKKIM","West District","unique_checklists",1,11
+"SIKKIM","West District","species",14,40
+"UTTAR PRADESH","Kheri","participants",1,2
+"UTTAR PRADESH","Kheri","checklists",1,2
+"UTTAR PRADESH","Kheri","unique_checklists",1,2
+"UTTAR PRADESH","Kheri","species",1,60
+"UTTARAKHAND","Almora
+","participants",1,6
+"UTTARAKHAND","Almora
+","checklists",1,17
+"UTTARAKHAND","Almora
+","unique_checklists",1,17
+"UTTARAKHAND","Almora
+","species",24,89
+"UTTARAKHAND","Chamoli","participants",1,2
+"UTTARAKHAND","Chamoli","checklists",1,4
+"UTTARAKHAND","Chamoli","unique_checklists",1,4
+"UTTARAKHAND","Chamoli","species",95,65
+"UTTARAKHAND","Dehradun","participants",16,28
+"UTTARAKHAND","Dehradun","checklists",40,53
+"UTTARAKHAND","Dehradun","unique_checklists",35,40
+"UTTARAKHAND","Dehradun","species",138,177
+"UTTARAKHAND","Garhwal","participants",1,4
+"UTTARAKHAND","Garhwal","checklists",1,8
+"UTTARAKHAND","Garhwal","unique_checklists",1,5
+"UTTARAKHAND","Garhwal","species",26,83
+"UTTARAKHAND","Hardwar","participants",NA,6
+"UTTARAKHAND","Hardwar","checklists",NA,29
+"UTTARAKHAND","Hardwar","unique_checklists",NA,24
+"UTTARAKHAND","Hardwar","species",NA,127
+"UTTARAKHAND","Nainital","participants",7,25
+"UTTARAKHAND","Nainital","checklists",7,53
+"UTTARAKHAND","Nainital","unique_checklists",7,46
+"UTTARAKHAND","Nainital","species",95,199
+"UTTARAKHAND","Pithoragarh","participants",5,3
+"UTTARAKHAND","Pithoragarh","checklists",16,23
+"UTTARAKHAND","Pithoragarh","unique_checklists",10,13
+"UTTARAKHAND","Pithoragarh","species",86,76
+"UTTARAKHAND","Rudraprayag","participants",3,2
+"UTTARAKHAND","Rudraprayag","checklists",9,2
+"UTTARAKHAND","Rudraprayag","unique_checklists",3,2
+"UTTARAKHAND","Rudraprayag","species",38,41
+"UTTARAKHAND","Tehri Garhwal","participants",NA,7
+"UTTARAKHAND","Tehri Garhwal","checklists",NA,8
+"UTTARAKHAND","Tehri Garhwal","unique_checklists",NA,7
+"UTTARAKHAND","Tehri Garhwal","species",NA,71
+"UTTARAKHAND","Udham Singh Nagar","participants",NA,1
+"UTTARAKHAND","Udham Singh Nagar","checklists",NA,1
+"UTTARAKHAND","Udham Singh Nagar","unique_checklists",NA,1
+"UTTARAKHAND","Udham Singh Nagar","species",NA,14
+"UTTARAKHAND","Uttarkashi","participants",1,1
+"UTTARAKHAND","Uttarkashi","checklists",1,1
+"UTTARAKHAND","Uttarkashi","unique_checklists",1,1
+"UTTARAKHAND","Uttarkashi","species",28,11
+"WEST BENGAL","Alipurduar","participants",NA,3
+"WEST BENGAL","Alipurduar","checklists",NA,3
+"WEST BENGAL","Alipurduar","unique_checklists",NA,1
+"WEST BENGAL","Alipurduar","species",NA,28
+"WEST BENGAL","Darjiling","participants",1,17
+"WEST BENGAL","Darjiling","checklists",2,65
+"WEST BENGAL","Darjiling","unique_checklists",2,31
+"WEST BENGAL","Darjiling","species",15,179
+"WEST BENGAL","Kalimpong","participants",3,6
+"WEST BENGAL","Kalimpong","checklists",3,10
+"WEST BENGAL","Kalimpong","unique_checklists",1,9
+"WEST BENGAL","Kalimpong","species",70,68

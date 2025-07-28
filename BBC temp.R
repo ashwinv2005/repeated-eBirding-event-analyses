@@ -10,14 +10,14 @@ preimp = c("GLOBAL.UNIQUE.IDENTIFIER","category","COMMON.NAME","SCIENTIFIC.NAME"
            "PROTOCOL.TYPE","DURATION.MINUTES","EFFORT.DISTANCE.KM","FIRST.NAME","LAST.NAME",
            "NUMBER.OBSERVERS","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
 
-nms = read.delim("India Records -2022_04_14-11_00_04_451-7QicQ-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
+nms = read.delim("India Records -2023_01_13-11_00_04_384-D12iR-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
                  na.strings = c(""," ",NA))
 nms = names(nms)
 nms[!(nms %in% preimp)] = "NULL"
 nms[nms %in% preimp] = NA
 
 # read data from certain columns only
-data1 = read.delim("India Records -2022_04_14-11_00_04_451-7QicQ-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
+data1 = read.delim("India Records -2023_01_13-11_00_04_384-D12iR-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
                    stringsAsFactors = F, na.strings = c(""," ","null",NA))
 
 names(data1) = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","SCIENTIFIC.NAME","OBSERVATION.COUNT",
@@ -77,14 +77,14 @@ preimp = c("GLOBAL.UNIQUE.IDENTIFIER","category","COMMON.NAME","SCIENTIFIC.NAME"
            "PROTOCOL.TYPE","DURATION.MINUTES","EFFORT.DISTANCE.KM","FIRST.NAME","LAST.NAME",
            "NUMBER.OBSERVERS","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
 
-nms = read.delim("India Records -2022_04_15-11_00_08_626-fp4ut-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
+nms = read.delim("India Records -2023_01_14-11_00_05_011-hIURb-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
                  na.strings = c(""," ",NA))
 nms = names(nms)
 nms[!(nms %in% preimp)] = "NULL"
 nms[nms %in% preimp] = NA
 
 # read data from certain columns only
-data1 = read.delim("India Records -2022_04_15-11_00_08_626-fp4ut-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
+data1 = read.delim("India Records -2023_01_14-11_00_05_011-hIURb-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
                    stringsAsFactors = F, na.strings = c(""," ","null",NA))
 
 names(data1) = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","SCIENTIFIC.NAME","OBSERVATION.COUNT",
@@ -144,14 +144,14 @@ preimp = c("GLOBAL.UNIQUE.IDENTIFIER","category","COMMON.NAME","SCIENTIFIC.NAME"
            "PROTOCOL.TYPE","DURATION.MINUTES","EFFORT.DISTANCE.KM","FIRST.NAME","LAST.NAME",
            "NUMBER.OBSERVERS","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
 
-nms = read.delim("India Records -2022_01_15-11_00_12_078-7ClYU-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
+nms = read.delim("India Records -2023_01_15-11_00_06_669-M2crI-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
                  na.strings = c(""," ",NA))
 nms = names(nms)
 nms[!(nms %in% preimp)] = "NULL"
 nms[nms %in% preimp] = NA
 
 # read data from certain columns only
-data1 = read.delim("India Records -2022_01_15-11_00_12_078-7ClYU-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
+data1 = read.delim("India Records -2023_01_15-11_00_06_669-M2crI-10-1.tsv", colClasses = nms, sep = "\t", header = T, quote = "", 
                    stringsAsFactors = F, na.strings = c(""," ","null",NA))
 
 names(data1) = c("GLOBAL.UNIQUE.IDENTIFIER","CATEGORY","COMMON.NAME","SCIENTIFIC.NAME","OBSERVATION.COUNT",
@@ -213,7 +213,7 @@ preimp = c("GLOBAL.UNIQUE.IDENTIFIER","category","COMMON.NAME","SCIENTIFIC.NAME"
            "PROTOCOL.TYPE","DURATION.MINUTES","EFFORT.DISTANCE.KM","FIRST.NAME","LAST.NAME",
            "NUMBER.OBSERVERS","ALL.SPECIES.REPORTED","GROUP.IDENTIFIER","SAMPLING.EVENT.IDENTIFIER")
 
-nms = read.delim("India Records -2022_01_16-11_00_08_567-DVEdQ-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
+nms = read.delim("India Records -2023_01_16-11_00_06_884-iDQxm-10-1.tsv", nrows = 1, sep = "\t", header = T, quote = "", stringsAsFactors = F, 
                  na.strings = c(""," ",NA))
 nms = names(nms)
 nms[!(nms %in% preimp)] = "NULL"
@@ -296,3 +296,12 @@ temp = datacomb %>%
 temp1 = datacomb %>%
   filter(CATEGORY == "species" | CATEGORY == "issf") %>%
   group_by(COUNTY.CODE) %>% summarize(n = n_distinct(COMMON.NAME)) %>% arrange(desc(n))
+
+temp2a = datacomb %>%
+  group_by(daym) %>% summarize(lists = n_distinct(SAMPLING.EVENT.IDENTIFIER))
+
+temp2b = datacomb %>%
+  filter(CATEGORY == "species" | CATEGORY == "issf") %>%
+  group_by(daym) %>% summarize(species = n_distinct(COMMON.NAME))
+
+temp2 = left_join(temp2a,temp2b)

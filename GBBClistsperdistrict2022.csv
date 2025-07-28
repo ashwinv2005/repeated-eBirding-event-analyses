@@ -1,0 +1,458 @@
+"DISTRICT","lists"
+"Salem",7918
+"Thrissur",2100
+"Alappuzha",2087
+"Bhilwara",1887
+"Bangalore",1580
+"Chittoor",1293
+"Dehradun",1200
+"The Dangs",1171
+"Wayanad",1149
+"Kasaragod",752
+"Dakshina Kannada",687
+"Kottayam",598
+"Ernakulam",550
+"Cuddalore",531
+"Mandla",514
+"Kannur",499
+"Coimbatore",457
+"Ahmadabad",436
+"Amravati",418
+"Leh",387
+"Palakkad",385
+"Balaghat",375
+"Chennai",363
+"South Andaman",334
+"Pathanamthitta",333
+"Palghar",325
+"Buldana",319
+"Mysuru",318
+"Pune",290
+"Kollam",287
+"Idukki",240
+"Mumbai Suburban",236
+"West Tripura",235
+"Chikkaballapura",226
+"Thane",220
+"Kodagu",203
+"Vadodara",199
+"Navsari",186
+"Theni",169
+"Ratnagiri",167
+"Yavatmal",165
+"Pithoragarh",161
+"Kondagaon",156
+"Chittaurgarh",152
+"Malappuram",150
+"Raipur",150
+"Thiruvananthapuram",143
+"Surat",136
+"Viluppuram",136
+"Gandhinagar",133
+"South Twenty Four Pargan*",132
+"Puducherry",131
+"Nainital",130
+"Nagapattinam",122
+"Anantapur",118
+"Kozhikode",114
+"Khordha",113
+"Bhavnagar",111
+"Dhenkanal",111
+"Koraput",107
+"Kangra",100
+"Bilaspur",90
+"Shimla",88
+"Bhopal",86
+"Anugul",85
+"North Twenty Four Pargan*",85
+"Solan",84
+"Akola",82
+"Anand",82
+"Kolkata",82
+"Kullu",82
+"Udupi",82
+"Visakhapatnam",82
+"Jabalpur",80
+"Tiruppur",80
+"Kamrup Metropolitan",79
+"Dindigul",78
+"Chengalpattu",76
+"Jaisalmer",76
+"Jalgaon",76
+"Bametara",75
+"Kachchh",71
+"Bengaluru Rural",70
+"Raigarh",70
+"West Kameng",70
+"North Goa",69
+"Ribhoi",67
+"Virudhunagar",67
+"Hardwar",66
+"Mandi",66
+"Kheda",65
+"Gautam Buddha Nagar",63
+"Madurai",62
+"Gurugram",59
+"Srinagar",57
+"Wardha",56
+"Sangli",55
+"Kodarma",54
+"Gomati",53
+"Aurangabad",51
+"Jamnagar",51
+"Sri Potti Sriramulu Nell*",51
+"Varanasi",51
+"Baksa",50
+"Khowai",49
+"Erode",48
+"Golaghat",48
+"Sirmaur",48
+"Parbhani",47
+"South Goa",45
+"East Khasi Hills",44
+"Sirohi",43
+"South",43
+"Tinsukia",42
+"Lucknow",41
+"The Nilgiris",41
+"Durg",40
+"Kancheepuram",40
+"Banas Kantha",39
+"Namakkal",39
+"Panch Mahals",39
+"Sangareddy",38
+"Chamba",36
+"Indore",36
+"Nagpur",36
+"New Delhi",36
+"Pali",36
+"Bidar",34
+"Darjiling",34
+"Ranchi",34
+"Jaipur",33
+"Faizabad",32
+"Gondiya",32
+"Murshidabad",32
+"Thiruvallur",32
+"Rajkot",31
+"Tapi",31
+"Tumakuru",31
+"Y.S.R.",31
+"Bharatpur",30
+"Mathura",30
+"Surendranagar",30
+"Kanniyakumari",28
+"Medchal Malkajgiri",28
+"Washim",28
+"Almora
+",27
+"Central",27
+"Dharwad",27
+"Jalandhar",27
+"North  & Middle Andaman",27
+"Ranga Reddy",27
+"East Godavari",26
+"Udaipur",26
+"Sipahijala",25
+"Bagalkote",24
+"Dimapur",24
+"Jammu",24
+"Karur",24
+"Kiphire",24
+"Mahesana",24
+"Porbandar",24
+"South East",24
+"South West",24
+"Badgam",23
+"Bharuch",23
+"Champhai",23
+"Jalpaiguri",23
+"Krishnagiri",23
+"Papum Pare",23
+"Chandigarh",21
+"Kolhapur",21
+"Patan",21
+"Sabar Kantha",21
+"South District",21
+"Chikkamagaluru",20
+"Kendujhar",20
+"Mahasamund",20
+"Purbi Singhbhum",20
+"Seoni",20
+"Sonitpur",20
+"Wokha",19
+"Kendrapara",18
+"Paschim Bardhaman",18
+"Tirunelveli",18
+"Uttara Kannada",18
+"Bijnor",17
+"Kallakurichi",17
+"Aizawl",16
+"Bhagalpur",16
+"Changlang",16
+"Tiruchirappalli",16
+"Vizianagaram",16
+"West",16
+"Aligarh",15
+"Bargarh",15
+"Chamarajanagara",15
+"Giridih",15
+"Hooghly",15
+"Jhajjar",15
+"Lawngtlai",15
+"Nadia",15
+"Panna",15
+"Purba Bardhaman",15
+"Sahibzada Ajit Singh Nag*",15
+"Sawai Madhopur",15
+"Thanjavur",15
+"Ganderbal",14
+"Hoshangabad",14
+"Kalaburagi",14
+"Kalimpong",14
+"Nashik",14
+"Shupiyan",14
+"Thoothukkudi",14
+"Ajmer",13
+"Bhind",13
+"Dhule",13
+"Hamirpur",13
+"Kinnaur",13
+"Prakasam",13
+"Uttarkashi",13
+"Valsad",13
+"West Godavari",13
+"Cachar",12
+"Devbhumi Dwarka",12
+"Gariaband",12
+"Guntur",12
+"Hassan",12
+"Krishna",12
+"Mandya",12
+"Pratapgarh",12
+"Prayagraj",12
+"Rajsamand",12
+"Ramanagara",12
+"Dhalai",11
+"Etawah",11
+"Faridabad",11
+"Kamrup",11
+"Kapurthala",11
+"Medinipur West",11
+"North",11
+"West Garo Hills",11
+"Ahmadnagar",10
+"Alwar",10
+"Barmer",10
+"Bastar",10
+"Davanagere",10
+"Faridkot",10
+"Hyderabad",10
+"Junagadh",10
+"Kota",10
+"Kurnool",10
+"Lahul & Spiti",10
+"Mumbai",10
+"Siddipet",10
+"Srikakulam",10
+"Bankura",9
+"Dohad",9
+"Mayurbhanj",9
+"Morbi",9
+"Nalanda",9
+"Palamu",9
+"Sonipat",9
+"Udham Singh Nagar",9
+"Vijayapura",9
+"West Karbi Anglong",9
+"Amreli",8
+"Baloda Bazar",8
+"Dhamtari",8
+"Dhaulpur",8
+"Kaithal",8
+"Katihar",8
+"Lakhimpur",8
+"Narmada",8
+"Pakke Kessang",8
+"Purba Medinipur",8
+"Puruliya",8
+"Ranipet",8
+"Sikar",8
+"Sindhudurg",8
+"South West Garo Hills",8
+"Ballari",7
+"Bhandara",7
+"Chota Udaipur",7
+"Dadra & Nagar Haveli",7
+"Dibrugarh",7
+"Imphal West",7
+"Morena",7
+"Morigaon",7
+"Muzaffarnagar",7
+"Ramanathapuram",7
+"Satara",7
+"Subarnapur",7
+"Tehri Garhwal",7
+"Agra",6
+"Belagavi",6
+"Bishnupur",6
+"Chhatarpur",6
+"Chitradurga",6
+"Firozpur",6
+"Gir Somnath",6
+"Jalor",6
+"Jodhpur",6
+"Kohima",6
+"Kolasib",6
+"Mamit",6
+"North West",6
+"Phek",6
+"Pudukkottai",6
+"Saran",6
+"Shivamogga",6
+"Adilabad",5
+"Bikaner",5
+"Birbhum",5
+"Budaun",5
+"Dakshin Bastar Dantewada",5
+"Dhanbad",5
+"Dharmapuri",5
+"East District",5
+"Kargil",5
+"Ludhiana",5
+"Mahisagar",5
+"Maldah",5
+"Nagaon",5
+"Nagaur",5
+"Samba",5
+"Shahdara",5
+"Vellore",5
+"West Jaintia Hills",5
+"West Nimar",5
+"Anantnag",4
+"Azamgarh",4
+"Baramula",4
+"Chandrapur",4
+"Gadag",4
+"Jamui",4
+"Karaikal",4
+"Panchkula",4
+"Patiala",4
+"Raisen",4
+"Rudraprayag",4
+"South Tripura",4
+"Tiruvannamalai",4
+"Tonk",4
+"Ujjain",4
+"Upper Dibang Valley",4
+"Bara Banki",3
+"Chamoli",3
+"Dakshin Dinajpur",3
+"Darrang",3
+"East",3
+"Garhwal",3
+"Ghaziabad",3
+"Hathras",3
+"Jhargram",3
+"Jhunjhunun",3
+"Karbi Anglong",3
+"Kathua",3
+"Kokrajhar",3
+"Palwal",3
+"Pilibhit",3
+"Rupnagar",3
+"Una",3
+"Uttar Bastar Kanker",3
+"Vikarabad",3
+"Balangir",2
+"Banswara",2
+"Bareilly",2
+"Barpeta",2
+"Biswanath",2
+"Bokaro",2
+"Bundi",2
+"Chirang",2
+"Churu",2
+"Dhubri",2
+"Dungarpur",2
+"East Jaintia Hills",2
+"Gadchiroli",2
+"Jorhat",2
+"Kabeerdham",2
+"Kalahandi",2
+"Karimganj",2
+"Karimnagar",2
+"Kolar",2
+"Lalitpur",2
+"Mahabubabad",2
+"Malkangiri",2
+"Mandsaur",2
+"Nabarangapur",2
+"Nayagarh",2
+"Patna",2
+"Raichur",2
+"Rajnandgaon",2
+"Sidhi",2
+"Sivaganga",2
+"Suryapet",2
+"Tarn Taran",2
+"Udhampur",2
+"Unokoti",2
+"Ambala",1
+"Ambedkar Nagar",1
+"Auraiya",1
+"Baleshwar",1
+"Balod",1
+"Barwani",1
+"Baudh",1
+"Begusarai",1
+"Betul",1
+"Bhadradri Kothagudem",1
+"Bhiwani",1
+"Bijapur",1
+"Bongaigaon",1
+"Chhindwara",1
+"Cooch Behar",1
+"Datia",1
+"Dewas",1
+"Doda",1
+"Gonda",1
+"Gurdaspur",1
+"Hailakandi",1
+"Hanumangarh",1
+"Haveri",1
+"Hazaribagh",1
+"Howrah",1
+"Khagaria",1
+"Khammam",1
+"Kheri",1
+"Koppal",1
+"Kurukshetra",1
+"Lohit",1
+"Lower Dibang Valley",1
+"Medak",1
+"Mungeli",1
+"Munger",1
+"Muzaffarabad",1
+"Nalgonda",1
+"Nizamabad",1
+"North  District",1
+"Nuapada",1
+"Punch",1
+"Puri",1
+"Rae Bareli",1
+"Rajouri",1
+"Saharsa",1
+"Sahibganj",1
+"Saraikela-kharsawan",1
+"Satna",1
+"Senapati",1
+"Sirsa",1
+"Sultanpur",1
+"Supaul",1
+"Surguja",1
+"Tamenglong",1
+"Thiruvarur",1
+"Ukhrul",1
+"Umaria",1
+"Warangal Rural",1

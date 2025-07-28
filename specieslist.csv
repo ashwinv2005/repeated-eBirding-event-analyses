@@ -1,0 +1,343 @@
+"","group.id","COMMON.NAME","OBSERVATION.COUNT","LATITUDE","LONGITUDE","OBSERVATION.DATE","TIME.OBSERVATIONS.STARTED","PROTOCOL.TYPE","DURATION.MINUTES","ALL.SPECIES.REPORTED","EFFORT.DISTANCE.KM","NUMBER.OBSERVERS"
+"1","S52094794","Accipiter sp.","1",9.5507443,77.1384202,"01-26-2019","09:44 AM","eBird - Traveling Count",15,1,0.42,3
+"2","S52094110","Acrocephalus sp.","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"3","S49634363","Alpine Swift","1",9.4933,77.2353,"05-12-2018","08:00 AM","eBird - Traveling Count",15,1,0.201,3
+"4","S52094540","Apus sp.","50",9.5765956,77.3371122,"01-26-2019","04:45 PM","eBird - Traveling Count",15,1,0.25,2
+"5","S52094110","Ashy Drongo","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"6","S52126892","Ashy Prinia","1",9.5070822,77.2803363,"01-26-2019","09:45 AM","eBird - Traveling Count",15,1,0.5,2
+"7","S52155186","Ashy Woodswallow","2",9.524124,77.257719,"01-27-2019","02:03 PM","eBird - Traveling Count",15,1,2.653,7
+"8","S52127090","Asian Brown Flycatcher","1",9.535023,77.275834,"01-26-2019","09:25 AM","eBird - Traveling Count",15,1,0.493,2
+"9","S52161360","Asian Emerald Dove","1",9.532737,77.267224,"01-25-2019","11:51 AM","eBird - Traveling Count",15,1,0.5,2
+"10","S52172858","Asian Fairy-bluebird","2",9.532593,77.266705,"01-26-2019","12:05 PM","eBird - Traveling Count",15,1,0.243,3
+"11","S52126203","Asian Koel","2",9.5327348,77.1481419,"01-24-2019","03:24 PM","eBird - Traveling Count",15,1,0.4,3
+"12","S52135360","Asian Openbill","1",9.4795892,77.0067122,"01-25-2019","01:36 PM","eBird - Traveling Count",15,1,0.74,2
+"13","S49633959","Asian Palm-Swift","3",9.5331545,77.2316956,"05-13-2018","08:03 AM","eBird - Traveling Count",15,1,0.201,6
+"14","S52094617","Australian Black-shouldered Kite","1",9.4354303,77.1656513,"01-26-2019","07:00 AM","eBird - Traveling Count",15,1,0.15,2
+"15","S52094224","Banded Bay Cuckoo","1",9.5422734,77.1890889,"01-25-2019","04:45 PM","eBird - Traveling Count",15,1,0.08,2
+"16","S52127160","Bar-winged Flycatcher-shrike","2",9.5886615,77.2956591,"01-25-2019","08:01 AM","eBird - Traveling Count",15,1,0.3,2
+"17","S52155157","Barn Swallow","5",9.526637,77.210294,"01-27-2019","02:34 PM","eBird - Traveling Count",15,1,2.666,7
+"18","S52131806","bee-eater sp.","1",9.4234574,77.0424331,"01-26-2019","08:43 AM","eBird - Traveling Count",15,1,0.28,3
+"19","S52094701","Besra","2",9.4717458,77.0625707,"01-26-2019","08:43 AM","eBird - Traveling Count",17,1,0.113,2
+"20","S52127263","bird sp.","1",9.406439,77.263723,"01-26-2019","10:16 AM","eBird - Traveling Count",15,1,0.15,2
+"21","S52278467","Black-and-orange Flycatcher","2",9.3150276,77.2847851,"01-27-2019","04:51 PM","eBird - Stationary Count",30,1,NA,4
+"22","S52222950","Black-capped Kingfisher","1",9.323033,77.2752529,"01-26-2019","12:45 PM","eBird - Traveling Count",6,1,0.161,4
+"23","S52126074","Black-crowned Night-Heron","1",9.5327348,77.1481419,"01-26-2019","10:01 PM","eBird - Traveling Count",15,1,0.31,2
+"24","S49619590","Black-headed Cuckooshrike","1",9.5999228,77.1911617,"05-14-2018","09:00 AM","eBird - Traveling Count",15,1,0.201,5
+"25","S52127073","Black-hooded Oriole","1",9.534802,77.272968,"01-26-2019","08:55 AM","eBird - Traveling Count",15,1,0.494,3
+"26","S52127190","Black-naped Monarch","1",9.416264,77.275274,"01-27-2019","08:50 AM","eBird - Traveling Count",15,1,0.2,2
+"27","S52127075","Black-naped Oriole","1",9.5690888,77.2674092,"01-26-2019","09:22 AM","eBird - Traveling Count",15,1,0.44,2
+"28","S52171581","Black-rumped Flameback (Lesser Goldenbacked Woodpecker)","1",9.528503,77.260959,"01-25-2019","04:34 PM","eBird - Traveling Count",15,1,0.379,3
+"29","S52123666","Black-throated Munia","2",9.4933,77.2353,"01-24-2019","05:45 PM","eBird - Traveling Count",15,1,0.241,3
+"30","S52094417","Black-winged Kite (Black-shouldered Kite)","1",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"31","S49633842","Black-winged Stilt","1",9.427,77.183,"05-13-2018","07:30 AM","eBird - Traveling Count",15,1,0.201,4
+"32","S52160539","Black Baza","1",9.5666667,77.1833333,"01-27-2019","09:00 AM","eBird - Traveling Count",15,1,0.3,4
+"33","S52094767","Black Drongo","1",9.5241371,77.0948618,"01-25-2019","09:05 AM","eBird - Traveling Count",15,1,0.145,2
+"34","S52094417","Black Eagle","2",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"35","S52094879","Black Kite","1",9.5909974,77.299792,"01-24-2019","04:33 PM","eBird - Stationary Count",95,1,NA,1
+"36","S52094276","Black Stork","1",9.5331545,77.2316956,"01-26-2019","10:15 AM","eBird - Traveling Count",30,1,0.097,4
+"37","S52161379","Black/Ashy Drongo","2",9.532947,77.261017,"01-25-2019","02:41 PM","eBird - Stationary Count",15,1,NA,2
+"38","S49633760","Blue-bearded Bee-eater","2",9.5969397,77.1757538,"05-12-2018","06:30 AM","eBird - Traveling Count",15,1,0.201,4
+"39","S52131806","Blue-capped Rock-Thrush","1",9.4234574,77.0424331,"01-26-2019","08:43 AM","eBird - Traveling Count",15,1,0.28,3
+"40","S52221038","Blue-eared Kingfisher","1",9.4860494,77.3770183,"01-25-2019","11:29 AM","eBird - Traveling Count",15,1,0.6,2
+"41","S52277977","Blue-faced Malkoha","1",9.5333333,77.1666667,"01-25-2019","09:30 AM","eBird - Traveling Count",15,1,0.2,2
+"42","S52134767","Blue-tailed Bee-eater","2",9.4642874,76.969762,"01-24-2019","04:08 PM","eBird - Traveling Count",16,1,0.113,2
+"43","S52278467","Blue-throated Flycatcher","1",9.3150276,77.2847851,"01-27-2019","04:51 PM","eBird - Stationary Count",30,1,NA,4
+"44","S52093918","blue flycatcher sp.","1",9.5000163,77.3322494,"01-26-2019","09:24 AM","eBird - Traveling Count",15,1,0.15,2
+"45","S52166372","Blue Rock-Thrush","1",9.4838555,77.0827007,"01-26-2019","09:05 AM","eBird - Traveling Count",15,1,1.609,2
+"46","S52278403","Blyth's Pipit","1",9.5987306,77.2211238,"01-25-2019","12:40 PM","eBird - Stationary Count",15,1,NA,2
+"47","S52094110","Blyth's Reed Warbler","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"48","S52094534","Blyth's Swift (Fork-tailed Swift)","1",9.5491646,77.3369426,"01-26-2019","11:00 AM","eBird - Traveling Count",15,1,0.25,3
+"49","S52278471","Bonelli's Eagle","1",9.528955,77.182842,"01-27-2019","02:51 PM","eBird - Traveling Count",15,1,2.855,7
+"50","S52126162","Booted Eagle","1",9.5327348,77.1481419,"01-25-2019","04:09 PM","eBird - Traveling Count",15,1,0.5,3
+"51","S52626335","Booted Warbler","1",9.5070822,77.2803363,"01-26-2019","08:15 AM","eBird - Stationary Count",15,1,NA,2
+"52","S52277980","Booted/Sykes's Warbler","1",9.533333,77.216667,"01-25-2019","09:45 AM","eBird - Traveling Count",15,1,0.02,2
+"53","S52155186","Brahminy Kite","1",9.524124,77.257719,"01-27-2019","02:03 PM","eBird - Traveling Count",15,1,2.653,7
+"54","S52126177","Brahminy Starling","1",9.5281879,77.12418,"01-25-2019","07:41 AM","eBird - Traveling Count",15,1,0.6,3
+"55","S49619751","Broad-tailed Grassbird","1",9.5999228,77.1911617,"05-12-2018","08:15 AM","eBird - Traveling Count",15,1,0.201,5
+"56","S52094862","Bronzed Drongo","2",9.4187677,77.0485074,"01-26-2019","10:06 AM","eBird - Traveling Count",15,1,1.545,3
+"57","S52127269","Brown-backed Needletail","1",9.406439,77.263723,"01-26-2019","09:57 AM","eBird - Traveling Count",14,1,0.15,2
+"58","S52172873","Brown-breasted Flycatcher","1",9.53443,77.26897,"01-26-2019","11:50 AM","eBird - Traveling Count",15,1,0.423,2
+"59","S52160548","Brown-capped Pygmy Woodpecker (Indian Pygmy Woodpecker)","1",9.55,77.2,"01-26-2019","09:15 AM","eBird - Traveling Count",15,1,0.2,2
+"60","S52161327","Brown-cheeked Fulvetta","2",9.539384,77.279997,"01-25-2019","10:32 AM","eBird - Traveling Count",15,1,0.425,3
+"61","S49619483","Brown-headed Barbet (Large Green Barbet)","1",9.5909974,77.299792,"05-12-2018","07:15 AM","eBird - Traveling Count",15,1,0.201,3
+"62","S52093894","Brown Fish-Owl","1",9.5081271,77.3437397,"01-25-2019","03:36 PM","eBird - Traveling Count",15,1,0.27,2
+"63","S52094148","Brown Hawk-Owl","2",9.5422734,77.1890889,"01-24-2019","06:46 PM","eBird - Stationary Count",15,1,NA,4
+"64","S52172304","Brown Shrike","1",9.532917,77.26113,"01-25-2019","05:05 PM","eBird - Stationary Count",15,1,NA,2
+"65","S52094800","Brown Wood-Owl","1",9.5488502,77.1424063,"01-26-2019","09:29 AM","eBird - Traveling Count",15,1,0.4,3
+"66","S52277921","buttonquail sp.","1",9.5898475,77.2255294,"01-25-2019","03:55 PM","eBird - Traveling Count",15,1,0.3,4
+"67","S52277980","Cattle Egret","1",9.533333,77.216667,"01-25-2019","09:45 AM","eBird - Traveling Count",15,1,0.02,2
+"68","S52094417","Chestnut-headed Bee-eater","1",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"69","S52155126","Chestnut-tailed Starling","1",9.536585,77.160177,"01-27-2019","03:06 PM","eBird - Traveling Count",15,1,2.379,8
+"70","S52160548","Chestnut-tailed/Malabar Starling","1",9.55,77.2,"01-26-2019","09:15 AM","eBird - Traveling Count",15,1,0.2,2
+"71","S52160591","Chestnut-winged Cuckoo","1",9.4810288,77.2773478,"01-27-2019","07:08 AM","eBird - Traveling Count",240,1,2,3
+"72","S52160026","Cinereous Tit (Great Tit)","4",9.3437648,77.2589442,"01-26-2019","08:45 AM","eBird - Traveling Count",15,1,0.177,2
+"73","S52278432","Clamorous Reed Warbler (Indian Great Reed Warbler)","1",9.427,77.183,"01-24-2019","09:25 AM","eBird - Traveling Count",15,1,1,4
+"74","S52364040","Common Buzzard","1",9.4549624,77.0667838,"01-25-2019","08:52 AM","eBird - Traveling Count",15,1,0.257,2
+"75","S52094862","Common Flameback (Goldenbacked Three-toed Woodpecker)","1",9.4187677,77.0485074,"01-26-2019","10:06 AM","eBird - Traveling Count",15,1,1.545,3
+"76","S52171548","Common Hawk-Cuckoo","1",9.526328,77.26162,"01-25-2019","04:17 PM","eBird - Traveling Count",15,1,0.328,3
+"77","S52220665","Common House-Martin (Northern House-Martin)","2",9.2933127,77.3595281,"01-24-2019","08:29 AM","eBird - Traveling Count",490,1,13.599,4
+"78","S52173172","Common Iora","1",9.532249,77.266066,"01-26-2019","08:25 AM","eBird - Traveling Count",15,1,0.629,3
+"79","S52172276","Common Kingfisher (Small Blue Kingfisher)","1",9.531157,77.258926,"01-26-2019","02:32 PM","eBird - Traveling Count",15,1,0.362,2
+"80","S52171530","Common Myna","2",9.526373,77.261676,"01-25-2019","04:02 PM","eBird - Stationary Count",15,1,NA,3
+"81","S52127098","Common Rosefinch","3",9.446759,77.260511,"01-28-2019","08:52 AM","eBird - Traveling Count",15,1,0.05,2
+"82","S52155281","Common Sandpiper","1",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"83","S52173141","Common Tailorbird","2",9.533464,77.277182,"01-26-2019","09:55 AM","eBird - Traveling Count",15,1,0.213,2
+"84","S49619943","Common Woodshrike","1",9.5243833,77.2555833,"05-13-2018","10:15 AM","eBird - Traveling Count",15,1,0.201,6
+"85","S52094759","Common/Stejneger's Stonechat (Siberian/Stejneger's Stonechat)","1",9.4693141,77.0921001,"01-27-2019","07:45 AM","eBird - Traveling Count",15,1,0.129,2
+"86","S52161360","Coppersmith Barbet","1",9.532737,77.267224,"01-25-2019","11:51 AM","eBird - Traveling Count",15,1,0.5,2
+"87","S52094233","cormorant sp.","100",9.5422734,77.1890889,"01-25-2019","05:30 PM","eBird - Traveling Count",15,1,0.113,2
+"88","S52094876","coucal sp.","1",9.5909974,77.299792,"01-25-2019","07:00 AM","eBird - Traveling Count",231,1,3,2
+"89","S52127208","Crested Goshawk","1",9.5858808,77.295823,"01-25-2019","09:21 AM","eBird - Traveling Count",15,1,0.58,2
+"90","S52160039","Crested Hawk-Eagle","1",9.3453948,77.2575062,"01-26-2019","09:20 AM","eBird - Traveling Count",15,1,0.097,2
+"91","S52155174","Crested Serpent-Eagle","1",9.5286,77.23606,"01-27-2019","02:19 PM","eBird - Traveling Count",15,1,2.874,7
+"92","S52171794","Crested Treeswift","1",9.499414,77.262818,"01-27-2019","12:47 PM","eBird - Traveling Count",15,1,1.192,5
+"93","S52173172","Crimson-backed Sunbird (Small Sunbird)","2",9.532249,77.266066,"01-26-2019","08:25 AM","eBird - Traveling Count",15,1,0.629,3
+"94","S49634270","cuckooshrike sp.","1",9.5099444,77.0854722,"05-13-2018","09:00 AM","eBird - Traveling Count",15,1,0.201,4
+"95","S52159999","Dark-fronted Babbler","4",9.3021868,77.2751108,"01-25-2019","09:15 AM","eBird - Traveling Count",15,1,0.08,2
+"96","S52278488","Dicaeum sp.","2",9.4785111,77.185425,"01-26-2019","08:45 AM","eBird - Traveling Count",20,1,0.2,3
+"97","S52278471","diurnal raptor sp.","1",9.528955,77.182842,"01-27-2019","02:51 PM","eBird - Traveling Count",15,1,2.855,7
+"98","S52171808","drongo sp.","1",9.499482,77.262744,"01-27-2019","12:16 PM","eBird - Stationary Count",16,1,NA,2
+"99","S52126196","Dusky Crag-Martin","3",9.5327348,77.1481419,"01-24-2019","05:17 PM","eBird - Traveling Count",15,1,0.5,3
+"100","S52161394","eagle sp.","1",9.529624,77.260131,"01-25-2019","03:13 PM","eBird - Traveling Count",15,1,0.28,2
+"101","S52220645","Eurasian Collared-Dove","1",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"102","S52094076","Eurasian Hoopoe","1",9.4646763,77.0911344,"01-27-2019","09:56 AM","eBird - Casual Observation",NA,0,NA,2
+"103","S52166372","Eurasian Kestrel (Common Kestrel)","1",9.4838555,77.0827007,"01-26-2019","09:05 AM","eBird - Traveling Count",15,1,1.609,2
+"104","S52626285","Eurasian Sparrowhawk","1",9.5070822,77.2803363,"01-26-2019","10:00 AM","eBird - Traveling Count",15,1,0.193,2
+"105","S52191955","falcon sp.","1",9.4951418,77.3615075,"01-27-2019","06:20 PM","eBird - Stationary Count",15,1,NA,2
+"106","S52127114","Flame-throated Bulbul (Ruby-throated Bulbul)","2",9.446759,77.260511,"01-28-2019","08:18 AM","eBird - Traveling Count",13,1,0.1,2
+"107","S49634014","flameback sp.","2",9.4585,76.968333,"05-12-2018","06:30 AM","eBird - Traveling Count",15,1,0.201,2
+"108","S52161352","flowerpecker sp.","1",9.534279,77.271745,"01-25-2019","11:36 AM","eBird - Traveling Count",15,1,0.697,3
+"109","S49619999","flycatcher sp. (Tyrannidae sp.)","2",9.5658,77.1927,"05-13-2018","08:00 AM","eBird - Traveling Count",15,1,0.201,3
+"110","S52094862","Forest Wagtail","2",9.4187677,77.0485074,"01-26-2019","10:06 AM","eBird - Traveling Count",15,1,1.545,3
+"111","S52131692","Fork-tailed Drongo-Cuckoo","1",9.4261868,77.0418263,"01-26-2019","08:27 AM","eBird - Traveling Count",15,1,0.34,3
+"112","S52127073","Golden-fronted Leafbird (Golden-fronted Chloropsis)","1",9.534802,77.272968,"01-26-2019","08:55 AM","eBird - Traveling Count",15,1,0.494,3
+"113","S52094076","Golden-headed Cisticola (Bright-headed Cisticola)","1",9.4646763,77.0911344,"01-27-2019","09:56 AM","eBird - Casual Observation",NA,0,NA,2
+"114","S52171808","Great Cormorant","1",9.499482,77.262744,"01-27-2019","12:16 PM","eBird - Stationary Count",16,1,NA,2
+"115","S52173278","Great Eared-Nightjar","3",9.532856,77.260693,"01-26-2019","05:46 AM","eBird - Stationary Count",15,1,NA,2
+"116","S52155281","Great Egret","1",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"117","S52220665","Great Grey Shrike (Indian)","1",9.2933127,77.3595281,"01-24-2019","08:29 AM","eBird - Traveling Count",490,1,13.599,4
+"118","S52094110","Great Hornbill (Great Pied Hornbill)","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"119","S52160556","Great/Intermediate Egret","1",9.5333333,77.1666667,"01-25-2019","09:45 AM","eBird - Traveling Count",15,1,0.3,2
+"120","S52171480","Greater Coucal","1",9.526457,77.261596,"01-25-2019","03:45 PM","eBird - Stationary Count",15,1,NA,2
+"121","S52278517","Greater Coucal (Southern)","1",9.4781833,77.1858222,"01-26-2019","09:29 AM","eBird - Traveling Count",15,1,0.15,3
+"122","S52172200","Greater Flameback","1",9.568454,77.264416,"01-26-2019","04:00 PM","eBird - Traveling Count",15,1,0.374,2
+"123","S52094110","Greater Racket-tailed Drongo","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"124","S52131806","Greater/Common Flameback","1",9.4234574,77.0424331,"01-26-2019","08:43 AM","eBird - Traveling Count",15,1,0.28,3
+"125","S49633769","Green Bee-eater","1",9.5969397,77.1757538,"05-13-2018","06:55 AM","eBird - Traveling Count",15,1,0.201,4
+"126","S52163597","Green Imperial-Pigeon","8",9.49902,77.1831,"01-27-2019","07:30 AM","eBird - Traveling Count",90,1,1.5,2
+"127","S52160576","Green Imperial-Pigeon (Green)","1",9.5767411,77.1308557,"01-25-2019","04:49 PM","eBird - Stationary Count",66,1,NA,2
+"128","S52094853","Green Sandpiper","1",9.4169176,77.0587184,"01-26-2019","10:48 AM","eBird - Traveling Count",15,1,0.322,3
+"129","S52172798","Green Warbler","2",9.530308,77.257662,"01-26-2019","02:17 PM","eBird - Traveling Count",15,1,0.463,2
+"130","S52173157","Green/Greenish Warbler","2",9.534282,77.276738,"01-26-2019","09:40 AM","eBird - Traveling Count",15,1,0.412,3
+"131","S52094110","Greenish Warbler","2",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"132","S52155126","Grey-breasted Prinia","1",9.536585,77.160177,"01-27-2019","03:06 PM","eBird - Traveling Count",15,1,2.379,8
+"133","S52173172","Grey-fronted Green-Pigeon (Pompadour Green-Pigeon)","4",9.532249,77.266066,"01-26-2019","08:25 AM","eBird - Traveling Count",15,1,0.629,3
+"134","S52127096","Grey-headed Bulbul","4",9.446759,77.260511,"01-28-2019","09:07 AM","eBird - Traveling Count",15,1,0.05,2
+"135","S52159999","Grey-headed Canary-Flycatcher","2",9.3021868,77.2751108,"01-25-2019","09:15 AM","eBird - Traveling Count",15,1,0.08,2
+"136","S52094597","Grey-headed Fish-Eagle","1",9.4354303,77.1656513,"01-26-2019","08:00 AM","eBird - Traveling Count",15,1,0.2,2
+"137","S52220645","Grey Francolin","1",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"138","S52155174","Grey Heron","1",9.5286,77.23606,"01-27-2019","02:19 PM","eBird - Traveling Count",15,1,2.874,7
+"139","S52155281","Grey Junglefowl","2",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"140","S52171548","Grey Wagtail","1",9.526328,77.26162,"01-25-2019","04:17 PM","eBird - Traveling Count",15,1,0.328,3
+"141","S52094884","Hair-crested Drongo (Spangled Drongo)","1",9.4303185,77.097095,"01-26-2019","09:45 AM","eBird - Traveling Count",18,1,0.322,4
+"142","S52166360","harrier sp.","1",9.4838555,77.0827007,"01-26-2019","07:54 AM","eBird - Stationary Count",15,1,NA,4
+"143","S52220665","hawk sp.","1",9.2933127,77.3595281,"01-24-2019","08:29 AM","eBird - Traveling Count",490,1,13.599,4
+"144","S52161368","Heart-spotted Woodpecker","1",9.532718,77.261236,"01-25-2019","12:25 PM","eBird - Casual Observation",NA,0,NA,3
+"145","S52165324","Hill Swallow (House Swallow)","1",9.527559,77.261531,"01-25-2019","03:29 PM","eBird - Traveling Count",15,1,0.16,2
+"146","S52126161","House Crow","1",9.5327348,77.1481419,"01-25-2019","04:24 PM","eBird - Traveling Count",15,1,0.4,3
+"147","S52163633","imperial-pigeon sp.","3",9.49902,77.1831,"01-25-2019","06:45 AM","eBird - Traveling Count",15,1,0.15,3
+"148","S52127277","Indian Blackbird","1",9.406439,77.263723,"01-26-2019","09:41 AM","eBird - Traveling Count",15,1,0.1,2
+"149","S52127101","Indian Blue Robin","1",9.446759,77.260511,"01-28-2019","08:36 AM","eBird - Traveling Count",15,1,0.05,2
+"150","S52155281","Indian Cormorant (Indian Shag)","1",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"151","S49633760","Indian Cuckoo","1",9.5969397,77.1757538,"05-12-2018","06:30 AM","eBird - Traveling Count",15,1,0.201,4
+"152","S52131942","Indian Golden Oriole","2",9.4217266,77.0457974,"01-26-2019","09:21 AM","eBird - Traveling Count",16,1,0.16,3
+"153","S52160589","Indian Grey Hornbill","3",9.5768211,77.1309063,"01-26-2019","06:49 AM","eBird - Stationary Count",16,1,NA,2
+"154","S52126980","Indian Paradise-Flycatcher","1",9.542869,77.282425,"01-25-2019","09:29 AM","eBird - Stationary Count",15,1,NA,2
+"155","S52173241","Indian Peafowl","1",9.532966,77.260924,"01-26-2019","06:16 AM","eBird - Stationary Count",15,1,NA,2
+"156","S52094853","Indian Pitta","1",9.4169176,77.0587184,"01-26-2019","10:48 AM","eBird - Traveling Count",15,1,0.322,3
+"157","S52171808","Indian Pond-Heron","1",9.499482,77.262744,"01-27-2019","12:16 PM","eBird - Stationary Count",16,1,NA,2
+"158","S52454649","Indian Robin","1",9.4096812,77.1293934,"01-25-2019","07:20 AM","eBird - Traveling Count",15,1,0.4,3
+"159","S52220645","Indian Roller","1",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"160","S52094110","Indian Scimitar-Babbler","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"161","S52160770","Indian Scops-Owl (Collared Scops-Owl)","1",9.5243833,77.2555833,"01-26-2019","06:00 AM","eBird - Stationary Count",15,1,NA,3
+"162","S52220645","Indian Silverbill (White-throated Munia)","2",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"163","S52126046","Indian Swiftlet","60",9.4411087,77.3344605,"01-25-2019","04:20 PM","eBird - Casual Observation",NA,0,NA,2
+"164","S52126033","Indian Yellow Tit","1",9.4411087,77.3344605,"01-26-2019","06:55 AM","eBird - Casual Observation",NA,0,NA,3
+"165","S52155174","Intermediate Egret","1",9.5286,77.23606,"01-27-2019","02:19 PM","eBird - Traveling Count",15,1,2.874,7
+"166","S52220665","Jerdon's Bushlark","1",9.2933127,77.3595281,"01-24-2019","08:29 AM","eBird - Traveling Count",490,1,13.599,4
+"167","S52126178","Jerdon's Leafbird (Jerdon's Chloropsis)","1",9.5327348,77.1481419,"01-25-2019","07:19 AM","eBird - Stationary Count",15,1,NA,2
+"168","S52278119","Jerdon's Nightjar","1",9.49902,77.1831,"01-25-2019","03:00 AM","eBird - Stationary Count",3,1,NA,2
+"169","S52161364","Jungle Babbler","1",9.532049,77.263336,"01-25-2019","12:09 PM","eBird - Traveling Count",17,1,0.248,3
+"170","S52171530","Jungle Myna","3",9.526373,77.261676,"01-25-2019","04:02 PM","eBird - Stationary Count",15,1,NA,3
+"171","S52094090","Jungle Nightjar (Indian Jungle Nightjar)","1",9.4627855,77.0540238,"01-24-2019","07:00 PM","eBird - Stationary Count",15,1,NA,2
+"172","S52173278","Jungle Owlet","1",9.532856,77.260693,"01-26-2019","05:46 AM","eBird - Stationary Count",15,1,NA,2
+"173","S52130494","Jungle/Rock Bush-Quail","2",9.4933,77.2353,"01-25-2019","09:50 AM","eBird - Traveling Count",15,1,0.25,3
+"174","S52172166","kingfisher sp.","1",9.3910382,77.3176953,"01-27-2019","10:48 AM","eBird - Stationary Count",15,1,NA,2
+"175","S52160569","Large-billed Crow","1",9.5333333,77.1833333,"01-25-2019","08:00 AM","eBird - Traveling Count",15,1,0.3,4
+"176","S52171548","Large-billed Crow (Indian Jungle)","1",9.526328,77.26162,"01-25-2019","04:17 PM","eBird - Traveling Count",15,1,0.328,3
+"177","S52159999","Large-billed Leaf Warbler","1",9.3021868,77.2751108,"01-25-2019","09:15 AM","eBird - Traveling Count",15,1,0.08,2
+"178","S52160564","Large Cuckooshrike","1",9.5333333,77.1666667,"01-25-2019","09:15 AM","eBird - Traveling Count",15,1,0.23,2
+"179","S52278328","Large Hawk-Cuckoo","1",9.427,77.183,"01-26-2019","07:57 AM","eBird - Traveling Count",15,1,1,4
+"180","S52094125","lark sp.","1",9.458518,77.0651516,"01-25-2019","10:06 AM","eBird - Traveling Count",15,1,0.145,2
+"181","S52220645","Laughing Dove (Little Brown Dove)","2",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"182","S49634338","laughingthrush sp.","3",9.4630382,77.0917708,"05-12-2018","10:00 AM","eBird - Traveling Count",15,1,0.201,4
+"183","S52277956","leafbird sp.","1",9.61907,77.081186,"01-24-2019","11:11 AM","eBird - Traveling Count",15,1,0.231,2
+"184","S52364039","Legge's Hawk-Eagle","1",9.4606636,77.0669386,"01-26-2019","03:41 PM","eBird - Casual Observation",NA,0,NA,2
+"185","S49619607","Lesser Coucal","1",9.5999228,77.1911617,"05-12-2018","08:00 AM","eBird - Traveling Count",15,1,0.201,5
+"186","S52155157","Lesser Fish-Eagle","1",9.526637,77.210294,"01-27-2019","02:34 PM","eBird - Traveling Count",15,1,2.666,7
+"187","S52222970","Lesser Yellownape","1",9.429167,77.333333,"01-27-2019","08:00 AM","eBird - Traveling Count",16,1,0.1,2
+"188","S52166365","Lesser/Eurasian Kestrel","1",9.4838555,77.0827007,"01-26-2019","08:10 AM","eBird - Stationary Count",15,1,NA,4
+"189","S49634221","Lesser/Grey-headed Fish-Eagle","1",9.4394206,77.3074405,"05-13-2018","03:15 PM","eBird - Traveling Count",15,1,0.201,5
+"190","S52155186","Little Cormorant","1",9.524124,77.257719,"01-27-2019","02:03 PM","eBird - Traveling Count",15,1,2.653,7
+"191","S52155281","Little Egret","1",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"192","S52155126","Little Grebe","1",9.536585,77.160177,"01-27-2019","03:06 PM","eBird - Traveling Count",15,1,2.379,8
+"193","S52277994","Little Ringed Plover","1",9.3506748,77.172873,"01-25-2019","05:20 PM","eBird - Traveling Count",15,1,0.7,4
+"194","S52172152","Little Spiderhunter","1",9.570965,77.266124,"01-26-2019","04:33 PM","eBird - Traveling Count",15,1,0.277,2
+"195","S52160007","Little Swift (Indian House Swift)","2",9.3029358,77.2751132,"01-25-2019","09:30 AM","eBird - Traveling Count",15,1,0.08,2
+"196","S52094597","Little Swift (Indian)","2",9.4354303,77.1656513,"01-26-2019","08:00 AM","eBird - Traveling Count",15,1,0.2,2
+"197","S52277971","Little/Indian Cormorant","4",9.55,77.2,"01-26-2019","09:15 AM","eBird - Traveling Count",15,1,0.02,2
+"198","S52278350","Long-billed Pipit","2",9.427,77.183,"01-25-2019","05:20 PM","eBird - Traveling Count",15,1,1,4
+"199","S52277980","Long-billed Sunbird (Loten's Sunbird)","1",9.533333,77.216667,"01-25-2019","09:45 AM","eBird - Traveling Count",15,1,0.02,2
+"200","S52094808","Long-tailed Shrike","1",9.5456269,77.1457742,"01-26-2019","08:57 AM","eBird - Traveling Count",15,1,0.6,3
+"201","S52094110","Malabar Barbet (Crimson-throated Barbet)","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"202","S52173224","Malabar Grey Hornbill","2",9.532987,77.261105,"01-26-2019","06:32 AM","eBird - Stationary Count",15,1,NA,2
+"203","S52171808","Malabar Parakeet (Blue-winged Parakeet)","2",9.499482,77.262744,"01-27-2019","12:16 PM","eBird - Stationary Count",16,1,NA,2
+"204","S52172200","Malabar Starling (Blyth’s Starling)","4",9.568454,77.264416,"01-26-2019","04:00 PM","eBird - Traveling Count",15,1,0.374,2
+"205","S52173141","Malabar Trogon","1",9.533464,77.277182,"01-26-2019","09:55 AM","eBird - Traveling Count",15,1,0.213,2
+"206","S52159989","Malabar Whistling-Thrush","1",9.3022732,77.274841,"01-25-2019","09:00 AM","eBird - Traveling Count",15,1,0.08,2
+"207","S52193880","Malabar Woodshrike","1",9.4527265,77.3023202,"01-28-2019","07:28 AM","eBird - Traveling Count",15,1,0.1,4
+"208","S52131692","Malabar/Coppersmith Barbet","1",9.4261868,77.0418263,"01-26-2019","08:27 AM","eBird - Traveling Count",15,1,0.34,3
+"209","S52163618","Malayan Night-Heron","1",9.3216757,77.274271,"01-27-2019","06:00 AM","eBird - Casual Observation",NA,0,NA,3
+"210","S52155157","martin/swallow sp.","50",9.526637,77.210294,"01-27-2019","02:34 PM","eBird - Traveling Count",15,1,2.666,7
+"211","S52135262","minivet sp.","1",9.4797381,77.0067486,"01-25-2019","12:42 PM","eBird - Stationary Count",17,1,NA,2
+"212","S52200431","Montagu's Harrier","1",9.4630382,77.0917708,"01-25-2019","04:45 PM","eBird - Traveling Count",15,1,1.609,3
+"213","S52173278","Mottled Wood-Owl","2",9.532856,77.260693,"01-26-2019","05:46 AM","eBird - Stationary Count",15,1,NA,2
+"214","S52171581","Mountain Imperial-Pigeon","1",9.528503,77.260959,"01-25-2019","04:34 PM","eBird - Traveling Count",15,1,0.379,3
+"215","S52173718","Muscicapa sp.","1",9.5082098,77.3628765,"01-24-2019","05:00 PM","eBird - Traveling Count",15,1,0.5,4
+"216","S52172858","nightjar sp.","1",9.532593,77.266705,"01-26-2019","12:05 PM","eBird - Traveling Count",15,1,0.243,3
+"217","S52161345","Nilgiri Flowerpecker","1",9.535401,77.27651,"01-25-2019","11:19 AM","eBird - Traveling Count",15,1,0.76,3
+"218","S52127261","Nilgiri Flycatcher","1",9.406439,77.263723,"01-26-2019","10:36 AM","eBird - Traveling Count",15,1,0.1,2
+"219","S52454643","Nilgiri Thrush","1",9.359845,77.1543325,"01-26-2019","06:15 AM","eBird - Traveling Count",15,1,0.25,3
+"220","S52127157","Nilgiri Wood-Pigeon","2",9.5886615,77.2956591,"01-25-2019","07:45 AM","eBird - Traveling Count",15,1,0.61,1
+"221","S52136033","nuthatch sp.","3",9.4255493,77.0369495,"01-25-2019","04:50 PM","eBird - Stationary Count",15,1,NA,2
+"222","S52175562","old world oriole sp.","3",9.4830503,77.3772044,"01-25-2019","09:50 AM","eBird - Traveling Count",15,1,0.2,4
+"223","S52094741","old world quail sp.","3",9.4606688,77.0601829,"01-26-2019","03:26 PM","eBird - Casual Observation",NA,0,NA,2
+"224","S52131806","Orange-headed Thrush","2",9.4234574,77.0424331,"01-26-2019","08:43 AM","eBird - Traveling Count",15,1,0.28,3
+"225","S52127107","Orange-headed Thrush (White-throated)","1",9.534892,77.27478,"01-26-2019","09:10 AM","eBird - Traveling Count",15,1,0.236,3
+"226","S52127073","Orange Minivet","2",9.534802,77.272968,"01-26-2019","08:55 AM","eBird - Traveling Count",15,1,0.494,3
+"227","S52155281","Oriental Darter","5",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"228","S52126201","Oriental Dollarbird","1",9.5327348,77.1481419,"01-24-2019","04:22 PM","eBird - Traveling Count",15,1,0.4,3
+"229","S52171794","Oriental Honey-buzzard (Crested Honey Buzzard)","1",9.499414,77.262818,"01-27-2019","12:47 PM","eBird - Traveling Count",15,1,1.192,5
+"230","S52159989","Oriental Magpie-Robin","1",9.3022732,77.274841,"01-25-2019","09:00 AM","eBird - Traveling Count",15,1,0.08,2
+"231","S52173304","Oriental Scops-Owl","1",9.532909,77.261123,"01-25-2019","09:06 PM","eBird - Stationary Count",15,1,NA,2
+"232","S52277698","Oriental Skylark","1",9.5987306,77.2211238,"01-26-2019","04:00 PM","eBird - Traveling Count",15,1,0.2,3
+"233","S52192244","Oriental Turtle-Dove","1",9.55194,77.3891169,"01-28-2019","11:35 AM","eBird - Traveling Count",15,1,0.7,2
+"234","S52094110","Oriental White-eye","2",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"235","S52171530","Osprey","2",9.526373,77.261676,"01-25-2019","04:02 PM","eBird - Stationary Count",15,1,NA,3
+"236","S52172450","owl sp.","1",9.532644,77.261236,"01-25-2019","07:09 PM","eBird - Stationary Count",15,1,NA,2
+"237","S52171548","Paddyfield Pipit","2",9.526328,77.26162,"01-25-2019","04:17 PM","eBird - Traveling Count",15,1,0.328,3
+"238","S52626324","Paddyfield Warbler","1",9.5070822,77.2803363,"01-26-2019","08:30 AM","eBird - Traveling Count",15,1,0.66,2
+"239","S52126259","Painted Bush-Quail","2",9.4545032,77.2992314,"01-24-2019","03:45 PM","eBird - Traveling Count",15,1,0.2,3
+"240","S52127277","Palani Laughingthrush (Palani Chilappan)","5",9.406439,77.263723,"01-26-2019","09:41 AM","eBird - Traveling Count",15,1,0.1,2
+"241","S52171581","Pale-billed Flowerpecker","1",9.528503,77.260959,"01-25-2019","04:34 PM","eBird - Traveling Count",15,1,0.379,3
+"242","S52626285","Pallid Harrier","1",9.5070822,77.2803363,"01-26-2019","10:00 AM","eBird - Traveling Count",15,1,0.193,2
+"243","S52094759","Pallid/Montagu's Harrier","1",9.4693141,77.0921001,"01-27-2019","07:45 AM","eBird - Traveling Count",15,1,0.129,2
+"244","S52094851","parakeet sp.","1",9.417083,77.0689626,"01-26-2019","03:18 PM","eBird - Traveling Count",15,1,0.418,2
+"245","S52192129","passerine sp.","3",9.376359,77.31001,"01-26-2019","05:48 PM","eBird - Stationary Count",15,1,NA,2
+"246","S49619682","Peregrine Falcon","1",9.5999228,77.1911617,"05-13-2018","04:00 PM","eBird - Traveling Count",15,1,0.201,5
+"247","S52131058","Phylloscopus sp.","1",9.418717,77.063334,"01-25-2019","07:53 AM","eBird - Traveling Count",15,1,0.46,3
+"248","S52127162","Pied Bushchat","3",9.5886615,77.2956591,"01-25-2019","08:16 AM","eBird - Traveling Count",15,1,0.36,2
+"249","S52171794","Pied Kingfisher","3",9.499414,77.262818,"01-27-2019","12:47 PM","eBird - Traveling Count",15,1,1.192,5
+"250","S52172343","pigeon/dove sp.","1",9.532754,77.261043,"01-25-2019","05:40 PM","eBird - Stationary Count",15,1,NA,2
+"251","S52160661","Pin-tailed Snipe","5",9.4394206,77.3074405,"01-27-2019","07:34 AM","eBird - Traveling Count",15,1,0.1,3
+"252","S52094417","pipit sp.","1",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"253","S52126152","Plain Prinia","1",9.5327348,77.1481419,"01-25-2019","05:43 PM","eBird - Traveling Count",15,1,0.3,3
+"254","S52093859","Plum-headed Parakeet","1",9.48959,77.3539573,"01-25-2019","09:46 AM","eBird - Traveling Count",15,1,0.13,2
+"255","S52160569","prinia sp.","1",9.5333333,77.1833333,"01-25-2019","08:00 AM","eBird - Traveling Count",15,1,0.3,4
+"256","S52173224","Puff-throated Babbler","1",9.532987,77.261105,"01-26-2019","06:32 AM","eBird - Stationary Count",15,1,NA,2
+"257","S52173141","Purple-rumped Sunbird","2",9.533464,77.277182,"01-26-2019","09:55 AM","eBird - Traveling Count",15,1,0.213,2
+"258","S52223020","Purple Heron","1",9.6031376,77.1668688,"01-24-2019","08:55 AM","eBird - Stationary Count",15,1,NA,3
+"259","S52172844","Purple Sunbird","2",9.532232,77.265333,"01-26-2019","12:20 PM","eBird - Traveling Count",15,1,0.429,3
+"260","S52277835","Pycnonotidae sp.","1",9.4596944,77.1436111,"01-25-2019","03:22 PM","eBird - Traveling Count",42,1,0.35,2
+"261","S52094417","Red-rumped Swallow","7",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"262","S52126178","Red-vented Bulbul","2",9.5327348,77.1481419,"01-25-2019","07:19 AM","eBird - Stationary Count",15,1,NA,2
+"263","S52171548","Red-wattled Lapwing","1",9.526328,77.26162,"01-25-2019","04:17 PM","eBird - Traveling Count",15,1,0.328,3
+"264","S52094110","Red-whiskered Bulbul","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"265","S52127205","Red Spurfowl","1",9.416264,77.275274,"01-27-2019","08:35 AM","eBird - Traveling Count",15,1,0.15,2
+"266","S52278247","Richard's Pipit","1",9.5987306,77.2211238,"01-25-2019","02:15 PM","eBird - Stationary Count",15,1,NA,2
+"267","S52160781","River Tern","1",9.5246832,77.2447472,"01-24-2019","04:35 PM","eBird - Traveling Count",30,1,10.461,3
+"268","S52094781","rock-thrush sp.","2",9.5241371,77.0948618,"01-25-2019","09:50 AM","eBird - Traveling Count",15,1,0.145,2
+"269","S49634414","Rock Pigeon (Feral Pigeon)","2",9.5260622,77.1126389,"05-12-2018","06:45 AM","eBird - Traveling Count",15,1,0.201,3
+"270","S52094781","Rose-ringed Parakeet","1",9.5241371,77.0948618,"01-25-2019","09:50 AM","eBird - Traveling Count",15,1,0.145,2
+"271","S49634069","Rosy Starling","1",9.5969397,77.1757538,"05-12-2018","06:45 AM","eBird - Traveling Count",15,1,0.201,5
+"272","S52626306","Rufous-bellied Eagle","1",9.5012488,77.3053139,"01-25-2019","09:15 AM","eBird - Traveling Count",15,1,0.386,2
+"273","S52172858","Rufous Babbler","5",9.532593,77.266705,"01-26-2019","12:05 PM","eBird - Traveling Count",15,1,0.243,3
+"274","S52127062","Rufous Treepie","1",9.534209,77.270459,"01-26-2019","08:40 AM","eBird - Traveling Count",15,1,0.524,2
+"275","S52126977","Rufous Woodpecker","1",9.54211,77.282186,"01-25-2019","09:11 AM","eBird - Traveling Count",15,1,0.281,3
+"276","S52160007","Rusty-tailed Flycatcher","1",9.3029358,77.2751132,"01-25-2019","09:30 AM","eBird - Traveling Count",15,1,0.08,2
+"277","S49633959","Scaly-breasted Munia (Spotted Munia)","2",9.5331545,77.2316956,"05-13-2018","08:03 AM","eBird - Traveling Count",15,1,0.201,6
+"278","S52626370","Shikra","1",9.5012488,77.3053139,"01-25-2019","08:15 AM","eBird - Traveling Count",15,1,0.5,2
+"279","S52626292","Short-toed Snake-Eagle","1",9.5666667,77.1833333,"01-27-2019","09:45 AM","eBird - Traveling Count",15,1,0.3,4
+"280","S52126901","shrike sp.","1",9.7788761,76.9103725,"01-25-2019","04:00 PM","eBird - Traveling Count",75,1,1.609,2
+"281","S52220665","Sirkeer Malkoha","1",9.2933127,77.3595281,"01-24-2019","08:29 AM","eBird - Traveling Count",490,1,13.599,4
+"282","S52172200","Small Minivet","2",9.568454,77.264416,"01-26-2019","04:00 PM","eBird - Traveling Count",15,1,0.374,2
+"283","S49620054","Small Pratincole","2",9.5243833,77.2555833,"05-14-2018","09:30 AM","eBird - Traveling Count",15,1,0.201,6
+"284","S52160551","small swift sp.","6",9.55,77.2,"01-26-2019","08:45 AM","eBird - Traveling Count",15,1,0.2,2
+"285","S52134519","snipe sp.","2",9.6019691,77.1673312,"01-24-2019","08:37 AM","eBird - Traveling Count",15,1,0.257,2
+"286","S52171581","Southern Hill Myna","2",9.528503,77.260959,"01-25-2019","04:34 PM","eBird - Traveling Count",15,1,0.379,3
+"287","S49619740","Speckled Piculet","1",9.5909974,77.299792,"05-13-2018","10:00 AM","eBird - Traveling Count",15,1,0.201,4
+"288","S52094095","Spot-bellied Eagle-Owl","1",9.4628306,77.0539624,"01-24-2019","07:18 PM","eBird - Stationary Count",15,1,NA,2
+"289","S52154543","Spotted Dove","1",9.554159,77.172116,"01-27-2019","03:37 PM","eBird - Traveling Count",15,1,2.576,6
+"290","S52094417","Square-tailed Bulbul (Black Bulbul)","1",9.4628758,77.0537827,"01-25-2019","04:01 PM","eBird - Traveling Count",16,1,0.338,2
+"291","S52094593","Square-tailed Bulbul (Black Bulbul) [Indian]","4",9.4354303,77.1656513,"01-26-2019","09:15 AM","eBird - Traveling Count",15,1,0.15,2
+"292","S52192001","Sri Lanka Bay-Owl","1",9.4951418,77.3615075,"01-27-2019","07:10 PM","eBird - Stationary Count",15,1,NA,2
+"293","S52135551","Sri Lanka Frogmouth","1",9.4864594,77.0168186,"01-25-2019","10:39 PM","eBird - Stationary Count",15,1,NA,2
+"294","S52094862","Stork-billed Kingfisher","1",9.4187677,77.0485074,"01-26-2019","10:06 AM","eBird - Traveling Count",15,1,1.545,3
+"295","S52125012","Streak-throated Swallow","4",9.427,77.183,"01-24-2019","06:00 PM","eBird - Traveling Count",15,1,0.25,2
+"296","S52277974","Streak-throated Woodpecker","1",9.55,77.2,"01-26-2019","08:45 AM","eBird - Traveling Count",15,1,0.02,2
+"297","S52135659","Striated Heron (Little Heron)","1",9.4864996,77.0168751,"01-26-2019","07:56 AM","eBird - Traveling Count",21,1,0.402,2
+"298","S52160042","sunbird sp.","1",9.3458555,77.2570694,"01-26-2019","09:35 AM","eBird - Traveling Count",15,1,0.129,2
+"299","S52166365","swift sp.","1",9.4838555,77.0827007,"01-26-2019","08:10 AM","eBird - Stationary Count",15,1,NA,4
+"300","S52094672","swiftlet sp.","2",9.4629459,77.0535084,"01-25-2019","05:57 PM","eBird - Traveling Count",15,1,0.274,2
+"301","S52220645","Sykes's Warbler","1",9.2919977,77.3604975,"01-24-2019","07:26 AM","eBird - Casual Observation",NA,0,NA,4
+"302","S52364041","Sylvia sp.","1",9.49902,77.1831,"01-26-2019","07:24 AM","eBird - Traveling Count",15,1,0.25,2
+"303","S52193879","Tawny-bellied Babbler","1",9.4527265,77.3023202,"01-28-2019","07:43 AM","eBird - Traveling Count",15,1,0.1,4
+"304","S52094163","tern sp.","4",9.576376,77.1803284,"01-24-2019","03:09 PM","eBird - Stationary Count",30,1,NA,7
+"305","S52172844","Thick-billed Flowerpecker","2",9.532232,77.265333,"01-26-2019","12:20 PM","eBird - Traveling Count",15,1,0.429,3
+"306","S52278448","Thick-billed Warbler","1",9.4817071,77.2886968,"01-28-2019","09:00 AM","eBird - Casual Observation",NA,0,NA,2
+"307","S52160573","Tickell's Blue Flycatcher","1",9.5333333,77.1833333,"01-25-2019","07:15 AM","eBird - Traveling Count",15,1,0.23,4
+"308","S52221089","Tickell's Leaf Warbler","1",9.4990136,77.3938114,"01-26-2019","10:04 AM","eBird - Traveling Count",15,1,0.29,2
+"309","S52094473","Timaliidae sp.","1",9.417405,77.069756,"01-24-2019","04:10 PM","eBird - Traveling Count",15,1,0.37,3
+"310","S52454644","Tytler's Leaf Warbler","1",9.4096812,77.1293934,"01-25-2019","09:00 AM","eBird - Traveling Count",15,1,0.2,3
+"311","S52173157","Velvet-fronted Nuthatch","2",9.534282,77.276738,"01-26-2019","09:40 AM","eBird - Traveling Count",15,1,0.412,3
+"312","S52094583","Verditer Flycatcher","1",9.575336,77.337534,"01-27-2019","07:30 AM","eBird - Traveling Count",15,1,0.25,2
+"313","S52171794","Vernal Hanging-Parrot (Indian Lorikeet)","2",9.499414,77.262818,"01-27-2019","12:47 PM","eBird - Traveling Count",15,1,1.192,5
+"314","S49634037","warbler sp. (Parulidae sp.)","1",9.5331545,77.2316956,"05-12-2018","06:36 AM","eBird - Traveling Count",15,1,0.201,5
+"315","S52223020","Watercock","1",9.6031376,77.1668688,"01-24-2019","08:55 AM","eBird - Stationary Count",15,1,NA,3
+"316","S52160621","Western Crowned Warbler","1",9.4847902,77.0167981,"01-26-2019","09:13 AM","eBird - Traveling Count",17,1,0.274,2
+"317","S52277958","Western Yellow Wagtail","1",9.510306,77.085891,"01-24-2019","05:08 PM","eBird - Traveling Count",15,1,0.468,2
+"318","S52126980","White-bellied Blue Flycatcher","1",9.542869,77.282425,"01-25-2019","09:29 AM","eBird - Stationary Count",15,1,NA,2
+"319","S52126162","White-bellied Drongo","1",9.5327348,77.1481419,"01-25-2019","04:09 PM","eBird - Traveling Count",15,1,0.5,3
+"320","S49619716","White-bellied Sholakili","1",9.5909974,77.299792,"05-12-2018","07:30 AM","eBird - Traveling Count",15,1,0.201,4
+"321","S52173127","White-bellied Treepie","3",9.53356,77.27664,"01-26-2019","10:10 AM","eBird - Traveling Count",15,1,0.188,3
+"322","S52172152","White-bellied Woodpecker (Great Black Woodpecker)","1",9.570965,77.266124,"01-26-2019","04:33 PM","eBird - Traveling Count",15,1,0.277,2
+"323","S52094853","White-breasted Waterhen","1",9.4169176,77.0587184,"01-26-2019","10:48 AM","eBird - Traveling Count",15,1,0.322,3
+"324","S52160575","White-browed Bulbul","1",9.5333333,77.1833333,"01-25-2019","07:00 AM","eBird - Traveling Count",15,1,0.2,4
+"325","S52171794","White-browed Wagtail (Large Pied Wagtail)","1",9.499414,77.262818,"01-27-2019","12:47 PM","eBird - Traveling Count",15,1,1.192,5
+"326","S52094110","White-cheeked Barbet (Small Green Barbet)","1",9.45562,77.0661504,"01-25-2019","08:36 AM","eBird - Traveling Count",15,1,0.097,2
+"327","S49619992","White-rumped Munia","5",9.5658,77.1927,"05-12-2018","03:15 PM","eBird - Traveling Count",15,1,0.201,4
+"328","S52126021","White-rumped Needletail (White-rumped Spinetail)","2",9.4453851,77.3461067,"01-26-2019","09:10 AM","eBird - Traveling Count",15,1,0.1,3
+"329","S49633812","White-rumped Shama","1",9.4394206,77.3074405,"05-12-2018","08:45 AM","eBird - Traveling Count",15,1,0.201,2
+"330","S52171808","White-throated Kingfisher","1",9.499482,77.262744,"01-27-2019","12:16 PM","eBird - Stationary Count",16,1,NA,2
+"331","S52160560","white egret sp.","5",9.5333333,77.1666667,"01-25-2019","09:30 AM","eBird - Traveling Count",15,1,0.3,2
+"332","S52223012","White Wagtail","1",9.44,77.21,"01-25-2019","09:45 AM","eBird - Traveling Count",15,1,0.2,4
+"333","S49633882","Wood Sandpiper","1",9.5969397,77.1757538,"05-12-2018","07:00 AM","eBird - Traveling Count",15,1,0.201,4
+"334","S52172365","woodpecker sp.","1",9.532733,77.261062,"01-25-2019","05:55 PM","eBird - Stationary Count",15,1,NA,2
+"335","S52155281","Woolly-necked Stork","1",9.509989,77.262391,"01-27-2019","01:02 PM","eBird - Traveling Count",15,1,2.231,6
+"336","S52126977","Wynaad Laughingthrush","6",9.54211,77.282186,"01-25-2019","09:11 AM","eBird - Traveling Count",15,1,0.281,3
+"337","S52135616","Yellow-billed Babbler","4",9.4857394,77.0158478,"01-26-2019","06:59 AM","eBird - Traveling Count",16,1,0.37,2
+"338","S52172809","Yellow-browed Bulbul","4",9.532542,77.26041,"01-26-2019","02:02 PM","eBird - Traveling Count",15,1,0.508,2
+"339","S52094765","Yellow-crowned Woodpecker","1",9.5102396,77.0855734,"01-26-2019","02:42 PM","eBird - Stationary Count",15,1,NA,2
+"340","S52130983","Yellow-footed Pigeon (Yellow-footed Green-Pigeon)","1",9.4173131,77.0670747,"01-25-2019","07:17 AM","eBird - Traveling Count",15,1,0.24,3
+"341","S52277755","Yellow-legged Buttonquail","1",9.588796,77.2261181,"01-26-2019","09:15 AM","eBird - Traveling Count",15,1,0.2,2
+"342","S49634394","Zitting Cisticola","1",9.4630382,77.0917708,"05-13-2018","08:15 AM","eBird - Traveling Count",15,1,0.201,4

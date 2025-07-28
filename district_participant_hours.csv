@@ -1,0 +1,380 @@
+DISTRICT,participants,meanhours,FIRST.NAME,LAST.NAME,birdinghours
+Ariyalur,10,0.69,Elavarasan,M,20.90
+Ariyalur,10,0.69,Cheran,Jagadeesan,5.42
+Ariyalur,10,0.69,Karthikeyan,G B,4.75
+Ariyalur,10,0.69,AM,AMSA,4.50
+Ariyalur,10,0.69,JOE,M RAJA,4.50
+Ariyalur,10,0.69,Albert ,relton,2.92
+Ariyalur,10,0.69,Raja Simma,Pandiyan,1.58
+Ariyalur,10,0.69,Selvaganesh,K,0.42
+Ariyalur,10,0.69,Arulvelan,Thillainayagam,0.42
+Ariyalur,10,0.69,Hareesha ,AS,0.42
+Chamrajnagar,1,0.27,Kalaimani,Ayuthavel ,0.27
+Chennai,12,0.50,Vidhya,Swaminathan,5.30
+Chennai,12,0.50,Vivek,Puliyeri,3.17
+Chennai,12,0.50,AWC,India,2.10
+Chennai,12,0.50,N,Mahathi ,2.10
+Chennai,12,0.50,Gnanaskandan,Kesavabharathi,1.92
+Chennai,12,0.50,kalpana,jayaraman,1.90
+Chennai,12,0.50,Sreekumar,Chirukandoth,1.67
+Chennai,12,0.50,Rama,Neelamegam,1.00
+Chennai,12,0.50,Sneha,Kumaraguru,0.63
+Chennai,12,0.50,Susy,Varughese,0.50
+Chennai,12,0.50,Aneesa,Zainab,0.08
+Chennai,12,0.50,Mageshwaran,Mageshwaran,0.02
+Coimbatore,42,0.89,CNS,Nature,14.00
+Coimbatore,42,0.89,Vijaykumar,Krishnamurthy,12.58
+Coimbatore,42,0.89,chetan,harikishandas joshi,11.75
+Coimbatore,42,0.89,Bhavi,K,9.58
+Coimbatore,42,0.89,Sharang,Satish,9.25
+Coimbatore,42,0.89,Yogeswarie,Sreedharan,9.23
+Coimbatore,42,0.89,KARTHIKEYAN,R,8.97
+Coimbatore,42,0.89,Gaja,mohanraj,7.33
+Coimbatore,42,0.89,Rajinikanth,Kasthuri,7.25
+Coimbatore,42,0.89,Renuka,Vijayaraghavan,7.25
+Coimbatore,42,0.89,Divakaran,Avinash,6.65
+Coimbatore,42,0.89,Selvaraj,Rangasamy,6.42
+Coimbatore,42,0.89,Selvaganesh,K,6.20
+Coimbatore,42,0.89,Hareesha ,AS,6.20
+Coimbatore,42,0.89,Logamadevi,Annadurai,6.00
+Coimbatore,42,0.89,JOE,M RAJA,4.83
+Coimbatore,42,0.89,Kishore,Kumaran S,4.50
+Coimbatore,42,0.89,G,Parameswaran,4.00
+Coimbatore,42,0.89,THIRUMOORTHY,N V,4.00
+Coimbatore,42,0.89,sahithya,selvaraj,3.92
+Coimbatore,42,0.89,Muthu,Dhivakar,3.37
+Coimbatore,42,0.89,AM,AMSA,3.33
+Coimbatore,42,0.89,Padmanabhan,Natarajan,3.00
+Coimbatore,42,0.89,dhanapal,kondasamy,2.58
+Coimbatore,42,0.89,Aadhith,Balasubramaniam,2.50
+Coimbatore,42,0.89,Saravana ,Durga ,2.13
+Coimbatore,42,0.89,Karthic,SS,2.00
+Coimbatore,42,0.89,Prakash,G,2.00
+Coimbatore,42,0.89,Danival,santhosh,1.88
+Coimbatore,42,0.89,Balamurali,RAPTOR,1.83
+Coimbatore,42,0.89,Sivakumar,S,1.38
+Coimbatore,42,0.89,Panchapakesan,Jeganathan,1.33
+Coimbatore,42,0.89,Arulvelan,Thillainayagam,1.22
+Coimbatore,42,0.89,Rama,Sarvani,1.12
+Coimbatore,42,0.89,Sravan Kumar,Railla ,1.12
+Coimbatore,42,0.89,Sree Hari,L,1.00
+Coimbatore,42,0.89,T R Shankar,Raman,0.83
+Coimbatore,42,0.89,Divya,Mudappa,0.58
+Coimbatore,42,0.89,Akshay,Surendra,0.25
+Coimbatore,42,0.89,abhishek ,gopal,0.25
+Coimbatore,42,0.89,Anisha,Velayudhan.K,0.17
+Coimbatore,42,0.89,viral,joshi,0.05
+Cuddalore,9,0.31,Masilamani,Selvam,8.75
+Cuddalore,9,0.31,Arun,kumar,2.63
+Cuddalore,9,0.31,Surendhar,Boobalan,1.45
+Cuddalore,9,0.31,Vigneshwaran,B,1.45
+Cuddalore,9,0.31,Vidhya,Swaminathan,1.08
+Cuddalore,9,0.31,Elavarasan,M,0.75
+Cuddalore,9,0.31,Selvaganesh,K,0.25
+Cuddalore,9,0.31,Arulvelan,Thillainayagam,0.25
+Cuddalore,9,0.31,Hareesha ,AS,0.25
+Dharmapuri,7,0.29,Kalaimani,Ayuthavel ,1.87
+Dharmapuri,7,0.29,VASEN ,SULI,0.73
+Dharmapuri,7,0.29,LOGANATHAN ,PALANISAMY,0.57
+Dharmapuri,7,0.29,Selvaganesh,K,0.25
+Dharmapuri,7,0.29,Arulvelan,Thillainayagam,0.25
+Dharmapuri,7,0.29,Hareesha ,AS,0.25
+Dharmapuri,7,0.29,Jayalalitha,Pagadala,0.08
+Dindigul,11,0.47,bulbul,muruges,9.08
+Dindigul,11,0.47,vaazhaikumar,kumar,6.25
+Dindigul,11,0.47,Satheesh Muthu Gopal,B,2.63
+Dindigul,11,0.47,Aathira,Perinchery,2.33
+Dindigul,11,0.47,Amara,Bharathy,2.00
+Dindigul,11,0.47,Meera,Jay,1.37
+Dindigul,11,0.47,Arulmanikandan,M,1.22
+Dindigul,11,0.47,Rameshwaran,Hoopoe,0.75
+Dindigul,11,0.47,Selvaganesh,K,0.62
+Dindigul,11,0.47,Arulvelan,Thillainayagam,0.62
+Dindigul,11,0.47,Hareesha ,AS,0.62
+Erode,8,1.19,Yogeswarie,Sreedharan,6.18
+Erode,8,1.19,Ilan ,Rajasekaran,4.00
+Erode,8,1.19,yoganathan,natarajan,2.17
+Erode,8,1.19,Divakaran,Avinash,1.35
+Erode,8,1.19,R,Selvamani,1.00
+Erode,8,1.19,Selvaganesh,K,0.25
+Erode,8,1.19,Arulvelan,Thillainayagam,0.25
+Erode,8,1.19,Hareesha ,AS,0.25
+Kancheepuram,27,0.56,Sreekumar,Chirukandoth,7.00
+Kancheepuram,27,0.56,AWC,India,5.35
+Kancheepuram,27,0.56,Vivek,Puliyeri,5.00
+Kancheepuram,27,0.56,Vidhya,Swaminathan,3.63
+Kancheepuram,27,0.56,Karan ,Matalia,3.50
+Kancheepuram,27,0.56,Sayandeep,Maity,3.50
+Kancheepuram,27,0.56,Cheran,Jagadeesan,3.50
+Kancheepuram,27,0.56,vidhya,kumaresan,2.83
+Kancheepuram,27,0.56,Manikandan,V,2.48
+Kancheepuram,27,0.56,Rameshkumar,Natarajan,2.17
+Kancheepuram,27,0.56,Anirudh,Singh,2.08
+Kancheepuram,27,0.56,Vivek,Singh,2.08
+Kancheepuram,27,0.56,Vivek,Ramakrishna,2.00
+Kancheepuram,27,0.56,Masilamani,Selvam,1.75
+Kancheepuram,27,0.56,kalpana,jayaraman,1.33
+Kancheepuram,27,0.56,Selvaganesh,K,1.28
+Kancheepuram,27,0.56,Arulvelan,Thillainayagam,1.28
+Kancheepuram,27,0.56,Hareesha ,AS,1.28
+Kancheepuram,27,0.56,Sheeja ,Rajagopal,1.00
+Kancheepuram,27,0.56,Sivakumar,SS,1.00
+Kancheepuram,27,0.56,sathya,kumar,1.00
+Kancheepuram,27,0.56,Dinesh,Kumar,0.67
+Kancheepuram,27,0.56,Rayyan,Towheed,0.50
+Kancheepuram,27,0.56,ROHITH,SRINIVASAN,0.50
+Kancheepuram,27,0.56,Vikas Madhav ,Nagarajan,0.25
+Kancheepuram,27,0.56,Gnanaskandan,Kesavabharathi,0.17
+Kancheepuram,27,0.56,Damodaran,Ramkumar,0.10
+Kanniyakumari,6,0.62,Prasanth,Prakhalathan,7.25
+Kanniyakumari,6,0.62,Sherene,Victoria,1.83
+Kanniyakumari,6,0.62,Niveditha,R K,1.50
+Kanniyakumari,6,0.62,Selvaganesh,K,0.63
+Kanniyakumari,6,0.62,Arulvelan,Thillainayagam,0.63
+Kanniyakumari,6,0.62,Hareesha ,AS,0.63
+Karaikal,5,0.14,Selvaganesh,K,0.52
+Karaikal,5,0.14,Arulvelan,Thillainayagam,0.52
+Karaikal,5,0.14,Hareesha ,AS,0.52
+Karaikal,5,0.14,CARLTON,RELTON,0.50
+Karaikal,5,0.14,Vidhya,Swaminathan,0.32
+Karur,4,0.09,Selvaganesh,K,0.53
+Karur,4,0.09,Arulvelan,Thillainayagam,0.45
+Karur,4,0.09,Hareesha ,AS,0.45
+Karur,4,0.09,Panchapakesan,Jeganathan,0.12
+Krishnagiri,5,0.56,Gopal,Krishnan,2.00
+Krishnagiri,5,0.56,Selvaganesh,K,0.25
+Krishnagiri,5,0.56,Arulvelan,Thillainayagam,0.25
+Krishnagiri,5,0.56,Hareesha ,AS,0.25
+Krishnagiri,5,0.56,Sangavi ,Chokkalingam ,0.03
+Madurai,19,1.07,Badri Narayanan,Thiagarajan,6.78
+Madurai,19,1.07,Zoology,Lady Doak college,6.75
+Madurai,19,1.07,AWC,India,6.50
+Madurai,19,1.07,Kishore,R,6.50
+Madurai,19,1.07,Vishwanath,Vishwa,5.75
+Madurai,19,1.07,Dharshini,G,5.50
+Madurai,19,1.07,Varsha,A,5.33
+Madurai,19,1.07,Raveendran,Natarajan,5.00
+Madurai,19,1.07,Priya,Rajendran,4.75
+Madurai,19,1.07,Karthikeyan,G B,3.70
+Madurai,19,1.07,Senthil,Veerasamy,2.83
+Madurai,19,1.07,Anbarasu. K,K. Anbarasu,2.45
+Madurai,19,1.07,Dhinesh,Eagle,1.75
+Madurai,19,1.07,Irene,Lois,1.50
+Madurai,19,1.07,Dhanush,Rajan,0.75
+Madurai,19,1.07,Selvaganesh,K,0.63
+Madurai,19,1.07,Hareesha ,AS,0.63
+Madurai,19,1.07,Arulvelan,Thillainayagam,0.52
+Madurai,19,1.07,MuthuBharathi,Pandian,0.03
+Nagappattinam,10,0.99,Swarna,Ravishankar,6.83
+Nagappattinam,10,0.99,srinivasan,swaminathan,5.83
+Nagappattinam,10,0.99,Albert ,relton,3.57
+Nagappattinam,10,0.99,SRM SCHOOL,NATURECLUB,3.00
+Nagappattinam,10,0.99,Vidhya,Swaminathan,1.83
+Nagappattinam,10,0.99,Keerthika,Kannan,0.50
+Nagappattinam,10,0.99,Vinoth,Balasubramanian,0.50
+Nagappattinam,10,0.99,Selvaganesh,K,0.27
+Nagappattinam,10,0.99,Arulvelan,Thillainayagam,0.27
+Nagappattinam,10,0.99,Hareesha ,AS,0.27
+Namakkal,2,0.26,VASEN ,SULI,2.37
+Namakkal,2,0.26,AWC,India,0.27
+Perambalur,5,0.34,Albert ,relton,1.50
+Perambalur,5,0.34,Karthikeyan,G B,0.33
+Perambalur,5,0.34,Selvaganesh,K,0.30
+Perambalur,5,0.34,Arulvelan,Thillainayagam,0.30
+Perambalur,5,0.34,Hareesha ,AS,0.30
+Puducherry,10,0.30,Surendhar,Boobalan,14.40
+Puducherry,10,0.30,Vigneshwaran,B,13.88
+Puducherry,10,0.30,AWC,India,3.08
+Puducherry,10,0.30,French Birds,(Group Account),2.45
+Puducherry,10,0.30,Masilamani,Selvam,0.92
+Puducherry,10,0.30,Vidhya,Swaminathan,0.72
+Puducherry,10,0.30,Selvaganesh,K,0.43
+Puducherry,10,0.30,Arulvelan,Thillainayagam,0.43
+Puducherry,10,0.30,Hareesha ,AS,0.43
+Puducherry,10,0.30,R,Muralidharan,0.18
+Pudukkottai,4,0.40,Rajarajan,V,14.80
+Pudukkottai,4,0.40,Selvaganesh,K,0.30
+Pudukkottai,4,0.40,Arulvelan,Thillainayagam,0.25
+Pudukkottai,4,0.40,Hareesha ,AS,0.25
+Ramanathapuram,6,0.31,Zoology,Lady Doak college,2.67
+Ramanathapuram,6,0.31,Raveendran,Natarajan,1.83
+Ramanathapuram,6,0.31,Priya,Rajendran,1.50
+Ramanathapuram,6,0.31,Selvaganesh,K,0.30
+Ramanathapuram,6,0.31,Arulvelan,Thillainayagam,0.30
+Ramanathapuram,6,0.31,Hareesha ,AS,0.30
+Salem,25,0.26,Salem Ornithological Foundation,(Group Account),118.13
+Salem,25,0.26,subramania,siva,46.67
+Salem,25,0.26,Tamil,Selvan  A,45.38
+Salem,25,0.26,vadivukkarasi,A,44.62
+Salem,25,0.26,Ganeshwar ,SV,44.27
+Salem,25,0.26,Angeline,Mano,40.27
+Salem,25,0.26,Venkatesh,S,33.43
+Salem,25,0.26,VASEN ,SULI,32.33
+Salem,25,0.26,Divya,Subramani,30.83
+Salem,25,0.26,Pradeepa,Sudhakar,22.03
+Salem,25,0.26,Himavat,Gouresh,20.85
+Salem,25,0.26,Kasiviswanathan,A,13.37
+Salem,25,0.26,kavitha,ramkumar,11.43
+Salem,25,0.26,AWC,India,10.48
+Salem,25,0.26,Suguna,R,10.30
+Salem,25,0.26,Krishnampudur School,Students (Group Account),8.58
+Salem,25,0.26,Periyasamy,Rajangam,8.03
+Salem,25,0.26,"Panchayat Union Primary School, Neermullikuttai",(Group Account),1.88
+Salem,25,0.26,Jayalalitha,Pagadala,1.53
+Salem,25,0.26,Abilash,Chandrapal,1.50
+Salem,25,0.26,Sankar,V,1.17
+Salem,25,0.26,Raj,guhan,0.95
+Salem,25,0.26,Selvaganesh,K,0.25
+Salem,25,0.26,Arulvelan,Thillainayagam,0.25
+Salem,25,0.26,Hareesha ,AS,0.25
+Sivaganga,4,0.14,Selvaganesh,K,0.32
+Sivaganga,4,0.14,Arulvelan,Thillainayagam,0.32
+Sivaganga,4,0.14,Hareesha ,AS,0.32
+Sivaganga,4,0.14,Arulmanikandan,M,0.30
+Thanjavur,16,0.31,Raja Simma,Pandiyan,5.43
+Thanjavur,16,0.31,Cheran,Jagadeesan,4.33
+Thanjavur,16,0.31,Panchapakesan,Jeganathan,3.80
+Thanjavur,16,0.31,AM,AMSA,2.33
+Thanjavur,16,0.31,JOE,M RAJA,2.25
+Thanjavur,16,0.31,sheeba,nanjan,1.95
+Thanjavur,16,0.31,amol,mande,1.00
+Thanjavur,16,0.31,Karthikeyan,G B,1.00
+Thanjavur,16,0.31,BALA,BHARATHI,1.00
+Thanjavur,16,0.31,venkatesan,m,1.00
+Thanjavur,16,0.31,Hareesha ,AS,0.65
+Thanjavur,16,0.31,Selvaganesh,K,0.40
+Thanjavur,16,0.31,Arulvelan,Thillainayagam,0.40
+Thanjavur,16,0.31,Duraiswamy,Navaneetham,0.25
+Thanjavur,16,0.31,Kumaran,K,0.17
+Thanjavur,16,0.31,Peter,Christopher,0.10
+The Nilgiris,14,1.02,viral,joshi,8.88
+The Nilgiris,14,1.02,Naman,Goyal,8.77
+The Nilgiris,14,1.02,Mahil,K S,6.25
+The Nilgiris,14,1.02,Kasim,Thundiyil,2.25
+The Nilgiris,14,1.02,Abhinand,C,2.25
+The Nilgiris,14,1.02,Roshnath,R,2.25
+The Nilgiris,14,1.02,Shalu,Amana,2.25
+The Nilgiris,14,1.02,Karthick,VS,1.75
+The Nilgiris,14,1.02,Selvaganesh,K,0.43
+The Nilgiris,14,1.02,Arulvelan,Thillainayagam,0.43
+The Nilgiris,14,1.02,Hareesha ,AS,0.43
+The Nilgiris,14,1.02,Azad,Kamil,0.42
+The Nilgiris,14,1.02,dhanapal,kondasamy,0.33
+The Nilgiris,14,1.02,Arjun,Cheyyur,0.18
+Theni,4,0.15,Selvaganesh,K,0.38
+Theni,4,0.15,Arulvelan,Thillainayagam,0.38
+Theni,4,0.15,Hareesha ,AS,0.38
+Theni,4,0.15,vaazhaikumar,kumar,0.33
+Thiruvallur,12,0.59,Mageshwaran,Mageshwaran,2.77
+Thiruvallur,12,0.59,Vinod,Shankar,1.42
+Thiruvallur,12,0.59,Sankar,Narayanan,1.27
+Thiruvallur,12,0.59,Sivakumar,SS,1.00
+Thiruvallur,12,0.59,sathya,kumar,1.00
+Thiruvallur,12,0.59,ramraj,s,0.75
+Thiruvallur,12,0.59,Karan ,Matalia,0.67
+Thiruvallur,12,0.59,Swarna,Ravishankar,0.50
+Thiruvallur,12,0.59,nishok,A,0.02
+Thiruvallur,12,0.59,Selvaganesh,K,0.02
+Thiruvallur,12,0.59,Arulvelan,Thillainayagam,0.02
+Thiruvallur,12,0.59,Hareesha ,AS,0.02
+Thiruvarur,9,0.60,RamManohar,B.,5.50
+Thiruvarur,9,0.60,Raja Simma,Pandiyan,4.32
+Thiruvarur,9,0.60,Aravind,Amirtharaj,3.25
+Thiruvarur,9,0.60,AWC,India,1.00
+Thiruvarur,9,0.60,Bhaskar,Krishnamachari,0.50
+Thiruvarur,9,0.60,Selvaganesh,K,0.32
+Thiruvarur,9,0.60,Arulvelan,Thillainayagam,0.32
+Thiruvarur,9,0.60,Hareesha ,AS,0.32
+Thiruvarur,9,0.60,Babu,santhanakrishnan,0.17
+Thoothukkudi,7,0.79,Siva Siddharth,N,7.23
+Thoothukkudi,7,0.79,Justus,Obed,5.97
+Thoothukkudi,7,0.79,Vinoba,Anand,4.25
+Thoothukkudi,7,0.79,Jaya Rakesh,Kannan,1.12
+Thoothukkudi,7,0.79,Selvaganesh,K,0.73
+Thoothukkudi,7,0.79,Arulvelan,Thillainayagam,0.68
+Thoothukkudi,7,0.79,Hareesha ,AS,0.50
+Tiruchirappalli,16,0.47,Albert ,relton,7.25
+Tiruchirappalli,16,0.47,Siva,T,5.83
+Tiruchirappalli,16,0.47,amol,mande,5.17
+Tiruchirappalli,16,0.47,G,lakshmanan,1.77
+Tiruchirappalli,16,0.47,Gnanith ,Gnanith ,1.50
+Tiruchirappalli,16,0.47,AM,AMSA,1.25
+Tiruchirappalli,16,0.47,JOE,M RAJA,1.25
+Tiruchirappalli,16,0.47,BALA,BHARATHI,1.17
+Tiruchirappalli,16,0.47,Panchapakesan,Jeganathan,1.12
+Tiruchirappalli,16,0.47,Raja Simma,Pandiyan,0.67
+Tiruchirappalli,16,0.47,venkatesan,m,0.67
+Tiruchirappalli,16,0.47,Selvaganesh,K,0.35
+Tiruchirappalli,16,0.47,Arulvelan,Thillainayagam,0.35
+Tiruchirappalli,16,0.47,Hareesha ,AS,0.35
+Tiruchirappalli,16,0.47,Thangamani,Nithyanantham,0.33
+Tiruchirappalli,16,0.47,Kumara,Gugu,0.03
+Tirunelveli,6,1.03,JANANI,L,16.00
+Tirunelveli,6,1.03,SUBRAMANIAN,R,9.63
+Tirunelveli,6,1.03,Selvaganesh,K,0.33
+Tirunelveli,6,1.03,Arulvelan,Thillainayagam,0.33
+Tirunelveli,6,1.03,Hareesha ,AS,0.33
+Tirunelveli,6,1.03,Rama ,Narayanan,0.17
+Tiruppur,13,0.46,AM,AMSA,8.08
+Tiruppur,13,0.46,Balaji,P B,3.75
+Tiruppur,13,0.46,Amara,Bharathy,3.33
+Tiruppur,13,0.46,Sadhasivam ,Dhamu,3.23
+Tiruppur,13,0.46,Gowtham ,Raja,3.23
+Tiruppur,13,0.46,Magesh,Ram,2.23
+Tiruppur,13,0.46,Mugillan,V,0.50
+Tiruppur,13,0.46,Panchapakesan,Jeganathan,0.50
+Tiruppur,13,0.46,JOE,M RAJA,0.50
+Tiruppur,13,0.46,Selvaganesh,K,0.43
+Tiruppur,13,0.46,Arulvelan,Thillainayagam,0.43
+Tiruppur,13,0.46,Hareesha ,AS,0.43
+Tiruppur,13,0.46,viral,joshi,0.05
+Tiruvannamalai,10,1.42,Sivakumar,Ramasamy,18.47
+Tiruvannamalai,10,1.42,Gnanaskandan,Kesavabharathi,13.58
+Tiruvannamalai,10,1.42,Arun,Venkataramanan,4.50
+Tiruvannamalai,10,1.42,Parthasarathy,Thirumalai,3.38
+Tiruvannamalai,10,1.42,Cheran,Jagadeesan,2.25
+Tiruvannamalai,10,1.42,Kalaimani,Ayuthavel ,1.87
+Tiruvannamalai,10,1.42,Mohamed,Salman,0.75
+Tiruvannamalai,10,1.42,Selvaganesh,K,0.25
+Tiruvannamalai,10,1.42,Arulvelan,Thillainayagam,0.25
+Tiruvannamalai,10,1.42,Hareesha ,AS,0.25
+Vellore,11,0.89,Aravind,AM,9.17
+Vellore,11,0.89,Justus,Obed,3.17
+Vellore,11,0.89,Benedict,Samuel,2.25
+Vellore,11,0.89,Kalaimani,Ayuthavel ,2.15
+Vellore,11,0.89,Prithivi,Raj S,2.00
+Vellore,11,0.89,Saad,Towheed,2.00
+Vellore,11,0.89,HARSHJEET,BAL,1.98
+Vellore,11,0.89,Gopal,Krishnan,1.45
+Vellore,11,0.89,Hareesha ,AS,0.85
+Vellore,11,0.89,Selvaganesh,K,0.80
+Vellore,11,0.89,Arulvelan,Thillainayagam,0.80
+Viluppuram,10,0.26,Surendhar,Boobalan,16.53
+Viluppuram,10,0.26,Vigneshwaran,B,16.53
+Viluppuram,10,0.26,AWC,India,2.12
+Viluppuram,10,0.26,Masilamani,Selvam,1.58
+Viluppuram,10,0.26,Sharon,Natarajan ,1.05
+Viluppuram,10,0.26,R,Muralidharan,0.65
+Viluppuram,10,0.26,Selvaganesh,K,0.45
+Viluppuram,10,0.26,Arulvelan,Thillainayagam,0.45
+Viluppuram,10,0.26,Hareesha ,AS,0.45
+Viluppuram,10,0.26,Vidhya,Swaminathan,0.25
+Virudunagar,19,0.73,Vijay,Rj,7.32
+Virudunagar,19,0.73,vishnu,sankar,5.58
+Virudunagar,19,0.73,ARUL,PRAKASH,4.00
+Virudunagar,19,0.73,Viji,G,4.00
+Virudunagar,19,0.73,Hari,Harish,3.50
+Virudunagar,19,0.73,Rajapalayam Rajus' College,Rajapalayam (Group Account ),3.12
+Virudunagar,19,0.73,latha,v,3.00
+Virudunagar,19,0.73,Santhosh ,Kshathriya ,3.00
+Virudunagar,19,0.73,caringnature,preservemotherearth,2.50
+Virudunagar,19,0.73,Santhosh,John,2.48
+Virudunagar,19,0.73,Raveendran,Natarajan,2.33
+Virudunagar,19,0.73,Zoology,Lady Doak college,2.33
+Virudunagar,19,0.73,Naveen,K s,2.00
+Virudunagar,19,0.73,Priya,Rajendran,1.25
+Virudunagar,19,0.73,Rajaguru,M,1.00
+Virudunagar,19,0.73,Sam,Vruthik,0.80
+Virudunagar,19,0.73,Selvaganesh,K,0.50
+Virudunagar,19,0.73,Arulvelan,Thillainayagam,0.50
+Virudunagar,19,0.73,Hareesha ,AS,0.50
